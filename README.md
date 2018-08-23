@@ -4,17 +4,18 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Les cours et doc par langages](#les-cours-et-doc-par-langages)
-  - [Python](#python)
-  - [C](#c)
-  - [C++](#c)
-  - [HTML/CSS](#htmlcss)
-  - [JavaScript](#javascript)
-  - [PHP](#php)
-  - [Rust](#rust)
-  - [Java](#java)
-- [Les sites à éviter comme la peste](#les-sites-%C3%A0-%C3%A9viter-comme-la-peste)
-- [Licence](#licence)
+- [Awesome Learning Dev FR edition](#awesome-learning-dev-fr-edition)
+    - [Les cours et doc par langages](#les-cours-et-doc-par-langages)
+        - [Python](#python)
+        - [C](#c)
+        - [C++](#c)
+        - [HTML/CSS](#htmlcss)
+        - [JavaScript](#javascript)
+        - [PHP](#php)
+        - [Rust](#rust)
+        - [Java](#java)
+    - [Les sites à éviter comme la peste](#les-sites-%C3%A0-%C3%A9viter-comme-la-peste)
+    - [Licence](#licence)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -67,6 +68,8 @@
 
 * OpenClassrooms
 * W3Schools
+
+Pour cacher ces sites des résultats Google, un script Tampermonkey [est mis à disposition](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/tampermonkey.js)
 
 ## Licence
 
