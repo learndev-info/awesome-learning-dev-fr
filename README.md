@@ -35,6 +35,7 @@
 ### C++
 
 * [Cours](http://guillaume.belz.free.fr/doku.php?id=programmez_avec_le_langage_c) ![FR](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/franceflag.png?v=1.0.0)
+* [Documentation](https://en.cppreference.com/w/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.0)
 
 ### HTML/CSS
 
@@ -64,6 +65,7 @@
 ### Java
 
 * [Cours](http://java2s.com/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.0) ou [Autre cours](https://www.jmdoudoux.fr/java/dej/indexavecframes.htm) ![FR](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/franceflag.png?v=1.0.0)
+* [Documentation](https://docs.oracle.com/javase) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.0)
 
 ## Les sites à éviter
 
