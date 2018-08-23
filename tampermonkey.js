@@ -5,6 +5,8 @@
 // @description  Remove W3Schools and OpenClassrooms from google results
 // @author       Adrien Rault <adrien@rault.io>
 // @match        https://www.google.com/search?*
+// @match        https://www.qwant.com/*
+// @match        https://duckduckgo.com/*
 // @grant        none
 // ==/UserScript==
 
@@ -16,7 +18,7 @@
     'https://openclassrooms.com/'
   ]
 
-  ;[...document.querySelectorAll('.g')]
+  ;[...document.querySelectorAll('.g, .result')]
     .filter((el) => el.querySelectorAll(forbiddenSources.map((s) => `a[href^="${s}"]`).join(',')).length !== 0)
     .forEach((el) => el.remove())
 })();
