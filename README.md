@@ -25,45 +25,45 @@
 
 *Langage conseillé pour commencer le développement*
 
-* [Cours](https://inforef.be/swi/download/apprendre_python3_5.pdf) ![FR](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/franceflag.svg)
-* [Documentation](https://docs.python.org/3/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.svg)
+* [Cours](https://inforef.be/swi/download/apprendre_python3_5.pdf) ![FR](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/franceflag.png)
+* [Documentation](https://docs.python.org/3/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 ### C
 
-* [Cours](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) ![FR](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/franceflag.svg)
+* [Cours](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) ![FR](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 ### C++
 
-* [Cours](http://guillaume.belz.free.fr/doku.php?id=programmez_avec_le_langage_c) ![FR](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/franceflag.svg)
+* [Cours](http://guillaume.belz.free.fr/doku.php?id=programmez_avec_le_langage_c) ![FR](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 ### HTML/CSS
 
-* [Cours](https://marksheet.io/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.svg)
-* [Documentation](https://developer.mozilla.org/en-US/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.svg)
+* [Cours](https://marksheet.io/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+* [Documentation](https://developer.mozilla.org/en-US/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 ### JavaScript
 
-* [Cours](https://eloquentjavascript.net/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.svg) ou [Autre cours](https://javascript.info/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.svg)
-* [Pour aller plus loin](https://github.com/getify/You-Dont-Know-JS) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.svg)
-* [Documentation](https://developer.mozilla.org/en-US/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.svg)
-* [OWASP (Complément sur la sécurité)](https://www.owasp.org/index.php/Main_Page) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.svg)
+* [Cours](https://eloquentjavascript.net/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png) ou [Autre cours](https://javascript.info/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+* [Pour aller plus loin](https://github.com/getify/You-Dont-Know-JS) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+* [Documentation](https://developer.mozilla.org/en-US/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+* [OWASP (Complément sur la sécurité)](https://www.owasp.org/index.php/Main_Page) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 ### PHP
 
-* [Documentation](https://secure.php.net/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.svg)
-* [OWASP (Complément sur la sécurité)](https://www.owasp.org/index.php/Main_Page) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.svg)
-* [Paragon Initiative (Complément sur la sécurité, orienté PHP)](https://paragonie.com/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.svg)
-* [Security Checklist](https://www.sqreen.io/checklists/php-security-checklist) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.svg)
+* [Documentation](https://secure.php.net/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+* [OWASP (Complément sur la sécurité)](https://www.owasp.org/index.php/Main_Page) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+* [Paragon Initiative (Complément sur la sécurité, orienté PHP)](https://paragonie.com/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+* [Security Checklist](https://www.sqreen.io/checklists/php-security-checklist) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 ### Rust
 
-* [Cours](https://doc.rust-lang.org/stable/book/2018-edition/index.html) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.svg)
-* [Rust by Exemple](https://doc.rust-lang.org/stable/rust-by-example/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.svg)
-* [Documentation](https://doc.rust-lang.org/std/index.html) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.svg)
+* [Cours](https://doc.rust-lang.org/stable/book/2018-edition/index.html) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+* [Rust by Exemple](https://doc.rust-lang.org/stable/rust-by-example/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+* [Documentation](https://doc.rust-lang.org/std/index.html) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 ### Java
 
-* [Cours](http://java2s.com/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.svg) ou [Autre cours](https://www.jmdoudoux.fr/java/dej/indexavecframes.htm) ![FR](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/franceflag.svg)
+* [Cours](http://java2s.com/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png) ou [Autre cours](https://www.jmdoudoux.fr/java/dej/indexavecframes.htm) ![FR](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 ## Les sites à éviter
 
@@ -76,5 +76,7 @@ Pour cacher ces sites des résultats Google, un script Tampermonkey [est mis à 
 
 ## Licence
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Flags images CC-BY 4.0 Mozilla Foundation (https://github.com/mozilla/fxemoji)
 
