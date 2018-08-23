@@ -14,6 +14,7 @@
         - [PHP](#php)
         - [Rust](#rust)
         - [Java](#java)
+    - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
     - [Les sites à éviter](#les-sites-%C3%A0-%C3%A9viter)
     - [Licence](#licence)
 
@@ -67,6 +68,12 @@
 * [Cours](http://java2s.com/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1) ou [Autre cours](https://www.jmdoudoux.fr/java/dej/indexavecframes.htm) ![FR](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/franceflag.png?v=1.0.1)
 * [Documentation](https://docs.oracle.com/javase) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
 
+## Éditeurs génériques
+
+* [Visual Studio Code](https://code.visualstudio.com/) ![FOSS](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)
+* [Atom](https://atom.io/) ![FOSS](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)
+* [Sublime Text](https://www.sublimetext.com/) ![Payant](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+
 ## Les sites à éviter
 
 Ces sites donnent de nombreuses informations fausses et/ou obsolètes et ne devraient pas être utilisés
@@ -80,5 +87,6 @@ Pour cacher ces sites des résultats Google, un script Tampermonkey [est mis à 
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.png?v=1.0.1)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-Flags images CC-BY 4.0 Mozilla Foundation (https://github.com/mozilla/fxemoji)
+Open Source image CC-BY 4.0 [Open Source Initiative](https://opensource.org/)
+Autres images CC-BY 4.0 Mozilla Foundation ([FxEmojis](https://github.com/mozilla/fxemoji))
 
