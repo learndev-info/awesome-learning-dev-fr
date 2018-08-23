@@ -44,6 +44,7 @@
 ### JavaScript
 
 * [Cours](https://eloquentjavascript.net/) 🇬🇧 ou [Autre cours](https://javascript.info/) 🇬🇧
+* [Pour aller plus loin](https://github.com/getify/You-Dont-Know-JS) 🇬🇧
 * [Documentation](https://developer.mozilla.org/en-US/) 🇬🇧
 * [OWASP (Complément sur la sécurité)](https://www.owasp.org/index.php/Main_Page) 🇬🇧
 
