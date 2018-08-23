@@ -14,7 +14,7 @@
         - [PHP](#php)
         - [Rust](#rust)
         - [Java](#java)
-    - [Les sites à éviter comme la peste](#les-sites-%C3%A0-%C3%A9viter-comme-la-peste)
+    - [Les sites à éviter](#les-sites-%C3%A0-%C3%A9viter)
     - [Licence](#licence)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -64,7 +64,9 @@
 
 * [Cours](http://java2s.com/) 🇬🇧 ou [Autre cours](https://www.jmdoudoux.fr/java/dej/indexavecframes.htm) 🇫🇷
 
-## Les sites à éviter comme la peste
+## Les sites à éviter
+
+Ces sites donnent de nombreuses informations fausses et/ou obsolètes et ne devraient pas être utilisés
 
 * OpenClassrooms
 * W3Schools
