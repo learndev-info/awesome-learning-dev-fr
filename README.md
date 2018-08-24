@@ -85,8 +85,8 @@ Pour cacher ces sites des résultats Google, un script Tampermonkey [est mis à 
 
 ## Licence
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.png?v=1.0.1)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-Open Source image CC-BY 4.0 [Open Source Initiative](https://opensource.org/)
+Open Source image CC-BY 4.0 [Open Source Initiative](https://opensource.org/)<br>
 Autres images CC-BY 4.0 Mozilla Foundation ([FxEmojis](https://github.com/mozilla/fxemoji))
 
