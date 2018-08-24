@@ -1,24 +1,30 @@
+---
+title: Awesome Learning Dev
+layout: post
+---
 # Awesome Learning Dev EN edition
+
+French? Go to the [FR Edition](/)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Awesome Learning Dev EN edition](#awesome-learning-dev-en-edition)
-    - [Courses and doc by languages](#courses-and-doc-by-languages)
-        - [Python](#python)
-        - [C](#c)
-        - [C++](#c)
-        - [HTML/CSS](#htmlcss)
-        - [JavaScript](#javascript)
-        - [PHP](#php)
-        - [Rust](#rust)
-        - [Java](#java)
-    - [Text editors](#text-editors)
-    - [IDE](#ide)
-    - [Sites to avoid](#sites-to-avoid)
-    - [Good documentations](#good-documentations)
-    - [Licence](#licence)
+  - [Courses and doc by languages](#courses-and-doc-by-languages)
+    - [Python](#python)
+    - [C](#c)
+    - [C++](#c)
+    - [HTML/CSS](#htmlcss)
+    - [JavaScript](#javascript)
+    - [PHP](#php)
+    - [Rust](#rust)
+    - [Java](#java)
+  - [Text editors](#text-editors)
+  - [IDE](#ide)
+  - [Sites to avoid](#sites-to-avoid)
+  - [Good documentations](#good-documentations)
+  - [Licence](#licence)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
