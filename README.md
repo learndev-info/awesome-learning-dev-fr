@@ -15,6 +15,7 @@
     - [Rust](#rust)
     - [Java](#java)
   - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
+  - [IDE](#ide)
   - [Les sites à éviter](#les-sites-%C3%A0-%C3%A9viter)
   - [Licence](#licence)
 
@@ -77,6 +78,10 @@
 * [Sublime Text](https://www.sublimetext.com/) ![Payant](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Atom](https://atom.io/) ![FOSS](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1) _Attention! Atom est très lent comparé à VS Code ou Sublime Text_
 
+## IDE
+
+* [JetBrains](https://www.jetbrains.com/) ![Payant](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1) _Si vous êtes étudiant vous pouvez bénéficier de tous les outils JetBrains de façon totalement gratuite pendant 1 an_
+
 ## Les sites à éviter
 
 Ces sites donnent de nombreuses informations fausses et/ou obsolètes et ne devraient pas être utilisés
@@ -108,4 +113,3 @@ This work is published from:
 
 Open Source image CC-BY 4.0 [Open Source Initiative](https://opensource.org/)<br>
 Autres images CC-BY 4.0 Mozilla Foundation ([FxEmojis](https://github.com/mozilla/fxemoji))
-
