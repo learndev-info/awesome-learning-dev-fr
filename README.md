@@ -87,7 +87,23 @@ Pour cacher ces sites des résultats Google, un script Tampermonkey [est mis à 
 
 ## Licence
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://learndev.rault.io/">
+    <span property="dct:title">Adrien Rault</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">awesome-learning-dev-fr</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="FR" about="https://learndev.rault.io/">
+  France</span>.
+</p>
 
 Open Source image CC-BY 4.0 [Open Source Initiative](https://opensource.org/)<br>
 Autres images CC-BY 4.0 Mozilla Foundation ([FxEmojis](https://github.com/mozilla/fxemoji))
