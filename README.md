@@ -113,4 +113,3 @@ This work is published from:
 
 Open Source image CC-BY 4.0 [Open Source Initiative](https://opensource.org/)<br>
 Autres images CC-BY 4.0 Mozilla Foundation ([FxEmojis](https://github.com/mozilla/fxemoji))
-
