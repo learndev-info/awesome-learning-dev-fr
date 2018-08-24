@@ -73,8 +73,8 @@
 ## Éditeurs génériques
 
 * [Visual Studio Code](https://code.visualstudio.com/) ![FOSS](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)
-* [Atom](https://atom.io/) ![FOSS](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)
 * [Sublime Text](https://www.sublimetext.com/) ![Payant](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [Atom](https://atom.io/) ![FOSS](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1) _Attention! Atom est très lent comparé à VS Code ou Sublime Text_
 
 ## Les sites à éviter
 
@@ -91,4 +91,3 @@ Pour cacher ces sites des résultats Google, un script Tampermonkey [est mis à 
 
 Open Source image CC-BY 4.0 [Open Source Initiative](https://opensource.org/)<br>
 Autres images CC-BY 4.0 Mozilla Foundation ([FxEmojis](https://github.com/mozilla/fxemoji))
-
