@@ -1,4 +1,10 @@
+---
+title: Awesome Learning Dev
+permalink: /
+---
 # Awesome Learning Dev FR edition
+
+Not french? Go to the [EN Edition](/en)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
