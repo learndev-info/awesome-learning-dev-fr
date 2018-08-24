@@ -32,6 +32,7 @@
 ### C
 
 * [Cours](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) ![FR](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/franceflag.png?v=1.0.1)
+* [Documentation](http://devdocs.io/c/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
 
 ### C++
 
@@ -48,6 +49,7 @@
 * [Cours](https://eloquentjavascript.net/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1) ou [Autre cours](https://javascript.info/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
 * [Pour aller plus loin](https://github.com/getify/You-Dont-Know-JS) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
 * [Documentation](https://developer.mozilla.org/en-US/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
+* [Documentation NodeJS](https://nodejs.org/api/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
 * [OWASP (Complément sur la sécurité)](https://www.owasp.org/index.php/Main_Page) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
 
 ### PHP
@@ -85,8 +87,7 @@ Pour cacher ces sites des résultats Google, un script Tampermonkey [est mis à 
 
 ## Licence
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.png?v=1.0.1)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-Open Source image CC-BY 4.0 [Open Source Initiative](https://opensource.org/)
+Open Source image CC-BY 4.0 [Open Source Initiative](https://opensource.org/)<br>
 Autres images CC-BY 4.0 Mozilla Foundation ([FxEmojis](https://github.com/mozilla/fxemoji))
-
