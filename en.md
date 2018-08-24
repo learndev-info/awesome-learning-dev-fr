@@ -1,6 +1,5 @@
 ---
 title: Awesome Learning Dev
-layout: post
 ---
 # Awesome Learning Dev EN edition
 
