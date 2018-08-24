@@ -32,6 +32,7 @@
 ### C
 
 * [Cours](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) ![FR](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/franceflag.png?v=1.0.1)
+* [Documentation](http://devdocs.io/c/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
 
 ### C++
 
