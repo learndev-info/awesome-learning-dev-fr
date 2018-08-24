@@ -5,18 +5,18 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Awesome Learning Dev FR edition](#awesome-learning-dev-fr-edition)
-    - [Les cours et doc par langages](#les-cours-et-doc-par-langages)
-        - [Python](#python)
-        - [C](#c)
-        - [C++](#c)
-        - [HTML/CSS](#htmlcss)
-        - [JavaScript](#javascript)
-        - [PHP](#php)
-        - [Rust](#rust)
-        - [Java](#java)
-    - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
-    - [Les sites à éviter](#les-sites-%C3%A0-%C3%A9viter)
-    - [Licence](#licence)
+  - [Les cours et doc par langages](#les-cours-et-doc-par-langages)
+    - [Python](#python)
+    - [C](#c)
+    - [C++](#c)
+    - [HTML/CSS](#htmlcss)
+    - [JavaScript](#javascript)
+    - [PHP](#php)
+    - [Rust](#rust)
+    - [Java](#java)
+  - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
+  - [Les sites à éviter](#les-sites-%C3%A0-%C3%A9viter)
+  - [Licence](#licence)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -42,7 +42,8 @@
 ### HTML/CSS
 
 * [Cours](https://marksheet.io/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
-* [Documentation](https://developer.mozilla.org/en-US/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
+* [Documentation HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
+* [Documentation CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
 
 ### JavaScript
 
