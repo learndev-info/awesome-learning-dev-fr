@@ -2,7 +2,7 @@
 // @name         Remove bad sources
 // @namespace    http://tampermonkey.net/
 // @version      0.0.1
-// @description  Remove W3Schools and OpenClassrooms from google results
+// @description  Remove W3Schools and OpenClassrooms from Google, DuckDuckGo and Qwant results
 // @author       Adrien Rault <adrien@rault.io>
 // @match        https://www.google.com/search?*
 // @match        https://www.qwant.com/*
