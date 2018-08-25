@@ -95,7 +95,7 @@ Ces sites donnent de nombreuses informations fausses et/ou obsolètes et ne devr
 * OpenClassrooms
 * W3Schools
 
-Pour cacher ces sites des résultats Google, un script Tampermonkey [est mis à disposition](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/tampermonkey.js)
+Pour cacher ces sites des résultats Google, DuckDuckGo, Qwant, un script Tampermonkey [est mis à disposition](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/tampermonkey.js)
 
 ## Licence
 
