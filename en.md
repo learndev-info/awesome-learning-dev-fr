@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Awesome Learning Dev EN edition
-
-=======
 ---
 title: Awesome Learning Dev
 ---
@@ -9,28 +5,11 @@ title: Awesome Learning Dev
 
 French? Go to the [FR Edition](/)
 
->>>>>>> upstream/master
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Awesome Learning Dev EN edition](#awesome-learning-dev-en-edition)
-<<<<<<< HEAD
-    - [Courses and doc by languages](#courses-and-doc-by-languages)
-        - [Python](#python)
-        - [C](#c)
-        - [C++](#c)
-        - [HTML/CSS](#htmlcss)
-        - [JavaScript](#javascript)
-        - [PHP](#php)
-        - [Rust](#rust)
-        - [Java](#java)
-    - [Text editors](#text-editors)
-    - [IDE](#ide)
-    - [Sites to avoid](#sites-to-avoid)
-    - [Good documentations](#good-documentations)
-    - [Licence](#licence)
-=======
   - [Courses and doc by languages](#courses-and-doc-by-languages)
     - [Python](#python)
     - [C](#c)
@@ -45,7 +24,6 @@ French? Go to the [FR Edition](/)
   - [Sites to avoid](#sites-to-avoid)
   - [Good documentations](#good-documentations)
   - [Licence](#licence)
->>>>>>> upstream/master
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
