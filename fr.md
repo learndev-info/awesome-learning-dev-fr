@@ -1,6 +1,5 @@
 ---
 title: Awesome Learning Dev
-permalink: /
 ---
 # Awesome Learning Dev FR edition
 
