@@ -92,7 +92,7 @@ Not french? Go to the [EN Edition](/en)
 Ces sites donnent de nombreuses informations fausses et/ou obsolètes et ne devraient pas être utilisés
 
 * OpenClassrooms
-* W3Schools
+* W3Schools - [Voyez à quel point c'est mauvais](https://www.impressivewebs.com/w3schools-ugly-bad-good/)
 
 Pour cacher ces sites des résultats Google, DuckDuckGo, Qwant, un script Tampermonkey [est mis à disposition](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/tampermonkey.js)
 
