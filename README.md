@@ -4,7 +4,7 @@ permalink: /
 ---
 # Awesome Learning Dev FR edition
 
-Not french? Go to the [EN Edition](/en)
+Not french? Go to the [EN Edition](/blob/master/en.md)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
