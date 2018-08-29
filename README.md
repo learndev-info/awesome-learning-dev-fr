@@ -4,7 +4,7 @@ permalink: /
 ---
 # Awesome Learning Dev FR edition
 
-Not french? Go to the [EN Edition](/en)
+Not french? Go to the [EN Edition](/blob/master/en.md)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -20,7 +20,7 @@ Not french? Go to the [EN Edition](/en)
     - [PHP](#php)
     - [Rust](#rust)
     - [Java](#java)
-  - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
+  - [Éditeurs génériques](#Éditeurs-génériques)
   - [IDE](#ide)
   - [Les sites à éviter](#les-sites-%C3%A0-%C3%A9viter)
   - [Bonnes documentations](#bonnes-documentations)
