@@ -100,7 +100,7 @@ French? Go to the [FR Edition](/)
 These sites give a lot of false and/or obsolete information and should not be used
 
 * OpenClassrooms
-* W3Schools
+* W3Schools _If you wonder why this site is listed here, [here is the answer](https://xela.isfucking.cool/blog/en/why-is-w3schools-bad)_
 
 To hide these sites from Google, DuckDuckGo, Qwant results, a Tampermonkey script [is available](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/tampermonkey.js)
 
