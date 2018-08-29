@@ -22,6 +22,7 @@ Not french? Go to the [EN Edition](/en)
   - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
   - [IDE](#ide)
   - [Les sites à éviter](#les-sites-%C3%A0-%C3%A9viter)
+  - [Bonnes documentations](#bonnes-documentations)
   - [Licence](#licence)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -92,9 +93,16 @@ Not french? Go to the [EN Edition](/en)
 Ces sites donnent de nombreuses informations fausses et/ou obsolètes et ne devraient pas être utilisés
 
 * OpenClassrooms
-* W3Schools _Si vous vous demandez pourquoi ce site est répertorié ici, [voici la réponse](https://xela.isfucking.cool/blog/fr/why-is-w3schools-bad)_
+* W3Schools _Si vous vous demandez pourquoi ce site est listé ici, [voici la réponse](https://xela.isfucking.cool/blog/en/why-is-w3schools-bad)_
 
 Pour cacher ces sites des résultats Google, DuckDuckGo, Qwant, un script Tampermonkey [est mis à disposition](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/tampermonkey.js)
+
+## Bonnes documentations
+
+Ces sites sont de bonnes sources d'information pour de nombreuses langues.
+
+* [Mozilla Developer Network / MDN](https://developer.mozilla.org/en-US/)
+* [DevDocs](https://devdocs.io/)
 
 ## Licence
 
