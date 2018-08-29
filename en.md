@@ -106,7 +106,7 @@ To hide these sites from Google, DuckDuckGo, Qwant results, a Tampermonkey scrip
 
 ## Good documentations
 
-These sites are good source information for many languages
+These sites are good sources of information for many programming languages.
 
 * [Mozilla Developer Network aka MDN](https://developer.mozilla.org/en-US/)
 * [DevDocs](https://devdocs.io/)

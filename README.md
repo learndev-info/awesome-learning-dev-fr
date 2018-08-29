@@ -23,6 +23,7 @@ Not french? Go to the [EN Edition](/en)
   - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
   - [IDE](#ide)
   - [Les sites à éviter](#les-sites-%C3%A0-%C3%A9viter)
+  - [Bonnes documentations](#bonnes-documentations)
   - [Licence](#licence)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -96,6 +97,13 @@ Ces sites donnent de nombreuses informations fausses et/ou obsolètes et ne devr
 * W3Schools
 
 Pour cacher ces sites des résultats Google, DuckDuckGo, Qwant, un script Tampermonkey [est mis à disposition](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/tampermonkey.js)
+
+## Bonnes documentations
+
+Ces sites sont de bonnes sources d'information pour de nombreux langages de programmation.
+
+* [Mozilla Developer Network ou MDN](https://developer.mozilla.org/en-US/)
+* [DevDocs](https://devdocs.io/)
 
 ## Licence
 
