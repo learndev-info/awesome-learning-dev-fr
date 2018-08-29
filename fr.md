@@ -94,6 +94,7 @@ Ces sites donnent de nombreuses informations fausses et/ou obsolètes et ne devr
 
 * OpenClassrooms
 * W3Schools _Si vous vous demandez pourquoi ce site est listé ici, [voici la réponse](https://xela.isfucking.cool/blog/fr/why-is-w3schools-bad)_
+* W3Resource
 
 Pour cacher ces sites des résultats Google, DuckDuckGo, Qwant, un script Tampermonkey [est mis à disposition](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/tampermonkey.js)
 

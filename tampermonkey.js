@@ -15,7 +15,8 @@
 
   const forbiddenSources = [
     'https://www.w3schools.com/',
-    'https://openclassrooms.com/'
+    'https://openclassrooms.com/',
+    'https://www.w3resource.com/'
   ]
 
   ;[...document.querySelectorAll('.g, .result')]
