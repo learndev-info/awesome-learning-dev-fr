@@ -19,6 +19,7 @@ Not french? Go to the [EN Edition](/en)
     - [PHP](#php)
     - [Rust](#rust)
     - [Java](#java)
+    - [SQL](#sql)
   - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
   - [IDE](#ide)
   - [Les sites à éviter](#les-sites-%C3%A0-%C3%A9viter)
@@ -77,6 +78,13 @@ Not french? Go to the [EN Edition](/en)
 
 * [Cours](http://java2s.com/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
 * [Documentation](https://docs.oracle.com/javase) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
+
+### SQL
+
+* [Cours](https://sql.sh/) ![FR](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/franceflag.png?v=1.0.1)
+* [Documentation PostgreSQL](https://www.postgresql.org/docs/10/static/index.html) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1) *Base de donnée recommandée*
+* [Documentation MySQL/MariaDB](https://dev.mysql.com/doc/refman/8.0/en/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
+* [Documentation SQLite](https://sqlite.org/docs.html) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
 
 ## Éditeurs génériques
 
