@@ -51,8 +51,8 @@ French? Go to the [FR Edition](/)
 ### HTML/CSS
 
 * [Course](https://marksheet.io/)
-* [HTML Documentation](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
-* [CSS Documentation](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
+* [HTML Documentation](https://developer.mozilla.org/en-US/docs/Glossary/HTML) or [Quick Reference](https://htmlreference.io/)
+* [CSS Documentation](https://developer.mozilla.org/en-US/docs/Glossary/CSS) or [Quick Reference](https://cssreference.io/)
 * [Alternative HTML Documentation](https://devdocs.io/html/)
 * [Alternative CSS Documentation](https://devdocs.io/css/)
 
