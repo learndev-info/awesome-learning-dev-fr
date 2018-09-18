@@ -82,11 +82,11 @@ Not french? Go to the [EN Edition](/en)
 
 ### Kotlin
 
-* [Kotlin in action](https://www.manning.com/books/kotlin-in-action)
-* [Fundamental Kotlin](http://www.fundamental-kotlin.com/)
-* [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
-* [Modern web development with Kotlin](https://leanpub.com/modern-web-development-with-kotlin)
-* [Official guide, book and reference](https://kotlinlang.org/docs/reference/)
+* [Kotlin in action](https://www.manning.com/books/kotlin-in-action) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
+* [Fundamental Kotlin](http://www.fundamental-kotlin.com/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
+* [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
+* [Modern web development with Kotlin](https://leanpub.com/modern-web-development-with-kotlin) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
+* [Guide, livre et références officiels](https://kotlinlang.org/docs/reference/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
 
 ### SQL
 
