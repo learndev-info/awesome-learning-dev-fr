@@ -19,6 +19,7 @@ Not french? Go to the [EN Edition](/en)
     - [PHP](#php)
     - [Rust](#rust)
     - [Java](#java)
+    - [Kotlin](#kotlin)
     - [SQL](#sql)
   - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
   - [IDE](#ide)
@@ -78,6 +79,14 @@ Not french? Go to the [EN Edition](/en)
 
 * [Cours](http://java2s.com/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
 * [Documentation](https://docs.oracle.com/javase) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
+
+### Kotlin
+
+* [Kotlin in action](https://www.manning.com/books/kotlin-in-action)
+* [Fundamental Kotlin](http://www.fundamental-kotlin.com/)
+* [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
+* [Modern web development with Kotlin](https://leanpub.com/modern-web-development-with-kotlin)
+* [Official guide, book and reference](https://kotlinlang.org/docs/reference/)
 
 ### SQL
 
