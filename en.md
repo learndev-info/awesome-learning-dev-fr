@@ -19,6 +19,7 @@ French? Go to the [FR Edition](/)
     - [PHP](#php)
     - [Rust](#rust)
     - [Java](#java)
+    - [Kotlin](#kotlin)
   - [Text editors](#text-editors)
   - [IDE](#ide)
   - [Sites to avoid](#sites-to-avoid)
@@ -84,6 +85,14 @@ French? Go to the [FR Edition](/)
 
 * [Course](http://java2s.com/)
 * [Official Documentation](https://docs.oracle.com/javase)
+
+### Kotlin
+
+* [Kotlin in action](https://www.manning.com/books/kotlin-in-action)
+* [Fundamental Kotlin](http://www.fundamental-kotlin.com/)
+* [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
+* [Modern web development with Kotlin](https://leanpub.com/modern-web-development-with-kotlin)
+* [Official guide, book and reference](https://kotlinlang.org/docs/reference/)
 
 ## Text editors
 
