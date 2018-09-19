@@ -103,6 +103,7 @@ French? Go to the [FR Edition](/)
 ## IDE
 
 * [JetBrains](https://www.jetbrains.com/) ![Paid](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1) _If you are a student you can benefit from all JetBrains tools for free for 1 year_
+* [NetBeans](https://netbeans.org/) ![FOSS](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)
 
 ## Sites to avoid
 

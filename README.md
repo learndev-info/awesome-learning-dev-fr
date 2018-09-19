@@ -1,5 +1,6 @@
 ---
 title: Awesome Learning Dev
+permalink: /
 ---
 # Awesome Learning Dev FR edition
 
@@ -104,6 +105,7 @@ Not french? Go to the [EN Edition](/en)
 ## IDE
 
 * [JetBrains](https://www.jetbrains.com/) ![Payant](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1) _Si vous êtes étudiant vous pouvez bénéficier de tous les outils JetBrains de façon totalement gratuite pendant 1 an_
+* [NetBeans](https://netbeans.org/) ![FOSS](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)
 
 ## Les sites à éviter
 
