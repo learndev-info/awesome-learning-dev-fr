@@ -3,7 +3,7 @@ title: Awesome Learning Dev
 ---
 # Awesome Learning Dev EN edition
 
-French? Go to the [FR Edition](/)
+French? Go to the [FR Edition](/fr)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
