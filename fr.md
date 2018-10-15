@@ -50,8 +50,8 @@ Not french? Go to the [EN Edition](/en)
 
 ### HTML/CSS
 
-* [Formation HTML](https://www.grafikart.fr/formations/html)
-* [Formation CSS](https://www.grafikart.fr/formations/css)
+* [Formation HTML](https://www.grafikart.fr/formations/html) 📹 ![FR](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/franceflag.png?v=1.0.1)
+* [Formation CSS](https://www.grafikart.fr/formations/css) 📹 ![FR](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/franceflag.png?v=1.0.1)
 * [Cours](https://marksheet.io/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
 * [Documentation HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1) or [Référence Rapide](https://htmlreference.io/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
 * [Documentation CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1) or [Référence Rapide](https://cssreference.io/) ![EN](https://raw.githubusercontent.com/rault-a/awesome-learning-dev-fr/master/medias/greatbritainflag.png?v=1.0.1)
