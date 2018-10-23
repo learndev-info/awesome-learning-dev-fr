@@ -17,6 +17,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [Java](#java)
   - [Kotlin](#kotlin)
   - [SQL](#sql)
+- [Livres de programmation gratuits](https://books.goalkicker.com/)
 - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
 - [Les IDE](#les-ide)
 - [Les sites à éviter](#les-sites-%C3%A0-%C3%A9viter)

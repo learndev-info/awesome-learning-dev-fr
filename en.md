@@ -17,6 +17,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
   - [Java](#java)
   - [Kotlin](#kotlin)
   - [SQL](#sql)
+- [Free programming books](https://books.goalkicker.com/)
 - [Text editors](#text-editors)
 - [The IDEs](#the-ides)
 - [Sites to avoid](#sites-to-avoid)
