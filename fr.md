@@ -114,7 +114,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
-Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage.
+* [Tutoriel/Cours](https://www.jmdoudoux.fr/java/dej/indexavecframes.htm)
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
