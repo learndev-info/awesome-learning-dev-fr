@@ -6,7 +6,7 @@ Bienvenue !
 
 Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développement, sauf que la plupart d'entre eux sont mauvais parce qu'ils vous enseignent de mauvaises pratiques ou des choses obsolètes. C'est pourquoi cette liste de bonnes sources pour apprendre le développement a été créée.
 
-  - [Tutoriels/Cours par langages](#tutorielscours-par-langages)
+- [Tutoriels/Cours par langages](#tutorielscours-par-langages)
   - [Python](#python)
   - [HTML/CSS](#htmlcss)
   - [Javascript](#javascript)
