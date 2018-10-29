@@ -68,11 +68,12 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
+* [Tutoriel/Cours](https://www.pierre-giraud.com/php-mysql/cours-complet/php-operations-variables.php)
 * [Formation PHP](https://www.grafikart.fr/formations/php) _Nécessite des connaissances de base en PHP_
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
-* [Tutoriel/Cours PHP](https://php.learn.dev.info/) _W.I.P_ 
+* [Cours](https://books.goalkicker.com/PHPBook/)
 * [Documentation PHP](https://secure.php.net/)
 * [OWASP (Complément sur la sécurité)](https://www.owasp.org/index.php/Main_Page)
 * [Initiative Paragon (Complément sur la sécurité, orienté PHP)](https://paragonie.com/)
