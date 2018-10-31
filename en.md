@@ -30,14 +30,10 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 **Recommended language to start development**
 
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
-
 * [Courses](https://books.goalkicker.com/PythonBook/)
 * [Documentation Python](https://docs.python.org/3/)
 
 ### HTML/CSS
-
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 * [HTML Courses](https://books.goalkicker.com/HTML5Book/)
 * [CSS Courses](https://books.goalkicker.com/CSSBook/)
@@ -46,8 +42,6 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [Documentation CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS) ou [Quick Reference](https://cssreference.io/)
 
 ### Javascript
-
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 * [JavaScript Courses](https://books.goalkicker.com/JavaScriptBook/)
 * [NodeJS Courses](https://books.goalkicker.com/NodeJSBook/)
@@ -59,9 +53,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### PHP
 
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
-
-* [Tutorial/Courses PHP](https://php.learn.dev.info/) _W.I.P_ 
+* [Courses](https://books.goalkicker.com/PHPBook/)
 * [Documentation PHP](https://secure.php.net/)
 * [OWASP (Security Supplement)](https://www.owasp.org/index.php/Main_Page)
 * [Paragon Initiative (Security Complement, PHP oriented)](https://paragonie.com/)
@@ -69,21 +61,15 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### C
 
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
-
 * [Courses](https://books.goalkicker.com/CBook/)
 * [Documentation C](http://devdocs.io/c/)
 
 ### C++
 
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
-
 * [Courses](https://books.goalkicker.com/CPlusPlusBook/)
 * [Documentation C++](https://en.cppreference.com/w/)
 
 ### Rust
-
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 * [Tutorial/Courses](https://doc.rust-lang.org/stable/book/2018-edition/index.html)
 * [Rust by Exemple](https://doc.rust-lang.org/stable/rust-by-example/)
@@ -91,15 +77,11 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### Java
 
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
-
 * [Courses](https://books.goalkicker.com/JavaBook/)
 * [Tutorial/Courses](http://java2s.com/)
 * [Documentation](https://docs.oracle.com/javase)
 
 ### Kotlin
-
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 * [Courses](https://books.goalkicker.com/KotlinBook/)
 * [Kotlin in action](https://www.manning.com/books/kotlin-in-action)
@@ -109,8 +91,6 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [Guide, book and official references](https://kotlinlang.org/docs/reference/)
 
 ### SQL
-
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 * [SQL Courses](https://books.goalkicker.com/SQLBook/)
 * [MySQL Courses](https://books.goalkicker.com/MySQLBook/)
