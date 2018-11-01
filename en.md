@@ -17,6 +17,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
   - [Java](#java)
   - [Kotlin](#kotlin)
   - [SQL](#sql)
+- [Useful links](#useful-links)
 - [Text editors](#text-editors)
 - [The IDEs](#the-ides)
 - [Sites to avoid](#sites-to-avoid)
@@ -29,16 +30,21 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 **Recommended language to start development**
 
+* [Courses](https://books.goalkicker.com/PythonBook/)
 * [Documentation Python](https://docs.python.org/3/)
 
 ### HTML/CSS
 
-* [Tutorial/Courses](https://marksheet.io/)
+* [HTML Courses](https://books.goalkicker.com/HTML5Book/)
+* [CSS Courses](https://books.goalkicker.com/CSSBook/)
+* [HTML & CSS Tutorial/Courses](https://marksheet.io/)
 * [Documentation HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML) ou [Quick Reference](https://htmlreference.io/)
 * [Documentation CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS) ou [Quick Reference](https://cssreference.io/)
 
 ### Javascript
 
+* [JavaScript Courses](https://books.goalkicker.com/JavaScriptBook/)
+* [NodeJS Courses](https://books.goalkicker.com/NodeJSBook/)
 * [Tutorial/Courses](https://eloquentjavascript.net/) or [Other Tutorial/Courses](https://javascript.info/)
 * [To go further](https://github.com/getify/You-Dont-Know-JS)
 * [Documentation JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -55,10 +61,12 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### C
 
+* [Courses](https://books.goalkicker.com/CBook/)
 * [Documentation C](http://devdocs.io/c/)
 
 ### C++
 
+* [Courses](https://books.goalkicker.com/CPlusPlusBook/)
 * [Documentation C++](https://en.cppreference.com/w/)
 
 ### Rust
@@ -69,11 +77,13 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### Java
 
+* [Courses](https://books.goalkicker.com/JavaBook/)
 * [Tutorial/Courses](http://java2s.com/)
 * [Documentation](https://docs.oracle.com/javase)
 
 ### Kotlin
 
+* [Courses](https://books.goalkicker.com/KotlinBook/)
 * [Kotlin in action](https://www.manning.com/books/kotlin-in-action)
 * [Fundamental Kotlin](http://www.fundamental-kotlin.com/)
 * [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
@@ -82,6 +92,10 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### SQL
 
+* [SQL Courses](https://books.goalkicker.com/SQLBook/)
+* [MySQL Courses](https://books.goalkicker.com/MySQLBook/)
+* [MongoDB Courses](https://books.goalkicker.com/MongoDBBook/)
+* [PostgreSQL Courses](https://books.goalkicker.com/PostgreSQLBook/)
 * [Documentation PostgreSQL](https://www.postgresql.org/docs/10/static/index.html) *Recommended database*
 * [Documentation MySQL/MariaDB](https://dev.mysql.com/doc/refman/8.0/en/)
 * [Documentation SQLite](https://sqlite.org/docs.html)
@@ -113,6 +127,10 @@ These sites are a good source of information for many programming languages.
 
 * [Mozilla Developer Network / MDN](https://developer.mozilla.org/en-US/)
 * [DevDocs](https://devdocs.io/)
+
+## Useful links
+
+* [GoalKicker](https://books.goalkicker.com/) _**Free** programming books in a lot of languages_
 
 ## License
 

@@ -17,6 +17,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [Java](#java)
   - [Kotlin](#kotlin)
   - [SQL](#sql)
+- [Liens utiles](#liens-utiles)
 - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
 - [Les IDE](#les-ide)
 - [Les sites à éviter](#les-sites-%C3%A0-%C3%A9viter)
@@ -35,6 +36,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
+* [Cours](https://books.goalkicker.com/PythonBook/)
 * [Documentation Python](https://docs.python.org/3/)
 
 ### HTML/CSS
@@ -46,7 +48,9 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
-* [Tutoriel/Cours](https://marksheet.io/)
+* [Cours HTML](https://books.goalkicker.com/HTML5Book/)
+* [Cours CSS](https://books.goalkicker.com/CSSBook/)
+* [Tutoriel/Cours HTML & CSS](https://marksheet.io/)
 * [Documentation HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML) ou [Référence Rapide](https://htmlreference.io/)
 * [Documentation CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS) ou [Référence Rapide](https://cssreference.io/)
 
@@ -58,6 +62,8 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
+* [Cours JavaScript](https://books.goalkicker.com/JavaScriptBook/)
+* [Cours NodeJS](https://books.goalkicker.com/NodeJSBook/)
 * [Tutoriel/Cours](https://eloquentjavascript.net/) ou [Autre Tutoriel/Cours](https://javascript.info/)
 * [Pour aller plus loin](https://github.com/getify/You-Dont-Know-JS)
 * [Documentation JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -87,6 +93,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
+* [Cours](https://books.goalkicker.com/CBook/)
 * [Documentation C](http://devdocs.io/c/)
 
 ### C++
@@ -97,6 +104,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
+* [Cours](https://books.goalkicker.com/CPlusPlusBook/)
 * [Documentation C++](https://en.cppreference.com/w/)
 
 ### Rust
@@ -119,6 +127,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
+* [Cours](https://books.goalkicker.com/JavaBook/)
 * [Tutoriel/Cours](http://java2s.com/)
 * [Documentation](https://docs.oracle.com/javase)
 
@@ -130,6 +139,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
+* [Cours](https://books.goalkicker.com/KotlinBook/)
 * [Kotlin en action](https://www.manning.com/books/kotlin-in-action)
 * [Fondamentale de Kotlin](http://www.fundamental-kotlin.com/)
 * [Programmation avec Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
@@ -144,6 +154,10 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
+* [Cours SQL](https://books.goalkicker.com/SQLBook/)
+* [Cours MySQL](https://books.goalkicker.com/MySQLBook/)
+* [Cours MongoDB](https://books.goalkicker.com/MongoDBBook/)
+* [Cours PostgreSQL](https://books.goalkicker.com/PostgreSQLBook/)
 * [Documentation PostgreSQL](https://www.postgresql.org/docs/10/static/index.html) *Base de données recommandée*
 * [Documentation MySQL/MariaDB](https://dev.mysql.com/doc/refman/8.0/en/)
 * [Documentation SQLite](https://sqlite.org/docs.html)
@@ -175,6 +189,10 @@ Ces sites sont une bonne source d'information pour de nombreux langages de progr
 
 * [Mozilla Developer Network / MDN](https://developer.mozilla.org/en-US/)
 * [DevDocs](https://devdocs.io/)
+
+## Liens utiles
+
+* [GoalKicker](https://books.goalkicker.com/) _Livres de programmation **gratuits** dans un grand nombre de langues_
 
 ## Licence
 
