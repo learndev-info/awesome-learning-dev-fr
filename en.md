@@ -35,6 +35,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### HTML/CSS
 
+* [Complete Guide](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 * [HTML Courses](https://books.goalkicker.com/HTML5Book/)
 * [CSS Courses](https://books.goalkicker.com/CSSBook/)
 * [HTML & CSS Tutorial/Courses](https://marksheet.io/)
@@ -43,6 +44,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### Javascript
 
+* [Complete Guide](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 * [JavaScript Courses](https://books.goalkicker.com/JavaScriptBook/)
 * [NodeJS Courses](https://books.goalkicker.com/NodeJSBook/)
 * [Tutorial/Courses](https://eloquentjavascript.net/) or [Other Tutorial/Courses](https://javascript.info/)
@@ -108,8 +110,11 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ## The IDEs
 
-* [JetBrains](https://www.jetbrains.com/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1) _If you are a student you can benefit from all JetBrains tools completely free of charge for 1 year_
-* [NetBeans](https://netbeans.org/) ![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)
+* [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/JetBrains/intellij-community) (Java, Kotlin, Scala, Rust)
+* [NetBeans](https://netbeans.org/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/apache/incubator-netbeans)
+* [PyCharm Community](https://www.jetbrains.com/pycharm/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/JetBrains/intellij-community/tree/master/python) (Python)
+* [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/) (C++, C, Java, HTML/CSS, Javascript) _Windows and Mac OS only
+* [JetBrains](https://www.jetbrains.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1) _As a student, you can benefit of 1 year (renewable) of the entire Jetbrains suite for free_ (HTML/CSS, Javascript, C, C++, Ruby, C#, SQL)_
 
 ## Sites to avoid
 
@@ -127,6 +132,10 @@ These sites are a good source of information for many programming languages.
 
 * [Mozilla Developer Network / MDN](https://developer.mozilla.org/en-US/)
 * [DevDocs](https://devdocs.io/)
+
+## Contribute
+
+This website is open-source ! An issue to report ? New links to add ? Check the [Github repository](https://github.com/learndev-info/awesome-learning-dev-fr) !
 
 ## Useful links
 
