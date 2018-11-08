@@ -17,11 +17,10 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [Java](#java)
   - [Kotlin](#kotlin)
   - [SQL](#sql)
-- [Liens utiles](#liens-utiles)
 - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
 - [Les IDE](#les-ide)
 - [Les sites à éviter](#les-sites-%C3%A0-%C3%A9viter)
-- [Bonnes documentations](#bonnes-documentations)
+- [Liens utiles](#liens-utiles)
 - [Licence](#licence)
 
 ## Tutoriels/Cours par langages
@@ -188,20 +187,17 @@ Ces sites donnent de nombreuses informations fausses et/ou obsolètes et ne devr
 
 Pour cacher ces sites des résultats Google, DuckDuckGo, Qwant, un script Tampermonkey [est mis à disposition](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/tampermonkey.js)
 
-## Bonnes documentations
+## Liens utiles
 
 Ces sites sont une bonne source d'information pour de nombreux langages de programmation.
 
 * [Mozilla Developer Network / MDN](https://developer.mozilla.org/en-US/)
 * [DevDocs](https://devdocs.io/)
+* [GoalKicker](https://books.goalkicker.com/) _Livres de programmation **gratuits** dans un grand nombre de langues_
 
 ## Contribuer
 
 Ce site est open-source ! Une erreur à notifier ? Des liens à rajouter ? Pour cela, rendez-vous sur [le dépôt git](https://github.com/learndev-info/awesome-learning-dev-fr)
-
-## Liens utiles
-
-* [GoalKicker](https://books.goalkicker.com/) _Livres de programmation **gratuits** dans un grand nombre de langues_
 
 ## Licence
 

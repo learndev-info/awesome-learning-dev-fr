@@ -17,11 +17,10 @@ On the Internet, there are many tutorials/courses to learn development, except t
   - [Java](#java)
   - [Kotlin](#kotlin)
   - [SQL](#sql)
-- [Useful links](#useful-links)
 - [Text editors](#text-editors)
 - [The IDEs](#the-ides)
 - [Sites to avoid](#sites-to-avoid)
-- [Good documentation](#good-documentation)
+- [Useful links](#useful-links)
 - [License](#license)
 
 ## Tutorials/Courses by languages
@@ -106,15 +105,15 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 * [Visual Studio Code](https://code.visualstudio.com/) ![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)
 * [Sublime Text](https://www.sublimetext.com/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
-* [Atom](https://atom.io/) ![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1) _Warning ! Atom is very slow compared to VS Code or Sublime Text_
+* [Atom](https://atom.io/) ![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1) _Warning ! Atom is pretty slow compared to VS Code or Sublime Text_
 
 ## The IDEs
 
 * [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/JetBrains/intellij-community) (Java, Kotlin, Scala, Rust)
 * [NetBeans](https://netbeans.org/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/apache/incubator-netbeans)
 * [PyCharm Community](https://www.jetbrains.com/pycharm/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/JetBrains/intellij-community/tree/master/python) (Python)
-* [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/) (C++, C, Java, HTML/CSS, Javascript) _Windows and Mac OS only
-* [JetBrains](https://www.jetbrains.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1) _As a student, you can benefit of 1 year (renewable) of the entire Jetbrains suite for free_ (HTML/CSS, Javascript, C, C++, Ruby, C#, SQL)_
+* [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/) (C++, C, Java, HTML/CSS, Javascript) _Windows and Mac OS only_
+* [JetBrains](https://www.jetbrains.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1) _As a student, you can benefit of 1 year (renewable) of the entire Jetbrains suite for free_ (HTML/CSS, Javascript, C, C++, Ruby, C#, SQL)
 
 ## Sites to avoid
 
@@ -126,20 +125,17 @@ These sites provide a lot of false and/or obsolete information and should not be
 
 To hide these sites from Google, DuckDuckGo, Qwant results, a Tampermonkey script [is available](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/tampermonkey.js)
 
-## Good documentation
+## Useful links
 
 These sites are a good source of information for many programming languages.
 
 * [Mozilla Developer Network / MDN](https://developer.mozilla.org/en-US/)
 * [DevDocs](https://devdocs.io/)
+* [GoalKicker](https://books.goalkicker.com/) _**Free** programming books in a lot of languages_
 
 ## Contribute
 
 This website is open-source ! An issue to report ? New links to add ? Check the [Github repository](https://github.com/learndev-info/awesome-learning-dev-fr) !
-
-## Useful links
-
-* [GoalKicker](https://books.goalkicker.com/) _**Free** programming books in a lot of languages_
 
 ## License
 
