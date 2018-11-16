@@ -59,7 +59,6 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 * [Guide complet](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps)
-* [Formation JS](https://www.grafikart.fr/formations/javascript) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
