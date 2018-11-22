@@ -75,7 +75,6 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 * [Tutoriel/Cours](https://www.pierre-giraud.com/php-mysql/cours-complet/php-operations-variables.php)
-* [Formation PHP](https://www.grafikart.fr/formations/php) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1) _Nécessite des connaissances de base en PHP_
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
