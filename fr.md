@@ -78,7 +78,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
-* [Cours](https://books.goalkicker.com/PHPBook/)
+* [Cours](https://phptherightway.com/) ou [Autre cours](https://books.goalkicker.com/PHPBook/)
 * [Documentation PHP](https://secure.php.net/)
 * [OWASP (Complément sur la sécurité)](https://www.owasp.org/index.php/Main_Page)
 * [Initiative Paragon (Complément sur la sécurité, orienté PHP)](https://paragonie.com/)
@@ -114,7 +114,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
-* [Tutoriel/Cours](https://doc.rust-lang.org/stable/book/2018-edition/index.html)
+* [Tutoriel/Cours](https://doc.rust-lang.org/book/)
 * [Rust par l'exemple](https://doc.rust-lang.org/stable/rust-by-example/)
 * [Documentation](https://doc.rust-lang.org/std/index.html)
 

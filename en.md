@@ -54,7 +54,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### PHP
 
-* [Courses](https://books.goalkicker.com/PHPBook/)
+* [Courses](https://phptherightway.com/) ou [Other Courses](https://books.goalkicker.com/PHPBook/)
 * [Documentation PHP](https://secure.php.net/)
 * [OWASP (Security Supplement)](https://www.owasp.org/index.php/Main_Page)
 * [Paragon Initiative (Security Complement, PHP oriented)](https://paragonie.com/)
@@ -72,7 +72,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### Rust
 
-* [Tutorial/Courses](https://doc.rust-lang.org/stable/book/2018-edition/index.html)
+* [Tutorial/Courses](https://doc.rust-lang.org/book/)
 * [Rust by Exemple](https://doc.rust-lang.org/stable/rust-by-example/)
 * [Documentation](https://doc.rust-lang.org/std/index.html)
 
