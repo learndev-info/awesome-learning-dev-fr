@@ -100,10 +100,12 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 * [Tutoriel/Cours](http://guillaume.belz.free.fr/doku.php?id=programmez_avec_le_langage_c)
+* [Tutoriel/Cours](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/)
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 * [Cours](https://books.goalkicker.com/CPlusPlusBook/)
+* [Cours](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113)
 * [Documentation C++](https://en.cppreference.com/w/)
 
 ### Rust
