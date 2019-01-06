@@ -104,7 +104,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 * [Cours](https://books.goalkicker.com/CPlusPlusBook/)
-* [Cours](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113)
+* [Cours](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Documentation C++](https://en.cppreference.com/w/)
 
 ### Rust
