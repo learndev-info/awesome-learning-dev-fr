@@ -7,6 +7,7 @@ Bienvenue !
 Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développement, sauf que la plupart d'entre eux sont mauvais parce qu'ils vous enseignent de mauvaises pratiques ou des choses obsolètes. C'est pourquoi cette liste de bonnes sources pour apprendre le développement a été créée.
 
 - [Tutoriels/Cours par langages](#tutorielscours-par-langages)
+  - [Algorithmie](#algorithmie)
   - [Python](#python)
   - [HTML/CSS](#htmlcss)
   - [Javascript](#javascript)
@@ -24,6 +25,16 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 - [Licence](#licence)
 
 ## Tutoriels/Cours par langages
+
+### Algorithmie
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+* [Cours, exercices et concours](http://www.france-ioi.org/)
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Tutoriel](https://books.goalkicker.com/AlgorithmsBook/)
 
 ### Python
 

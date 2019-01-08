@@ -7,6 +7,7 @@ Welcome!
 On the Internet, there are many tutorials/courses to learn development, except that most of them are bad because they teach you bad practices or obsolete things. That is why this list of good sources for learning development has been created.
 
 - [Tutorials/Courses by languages](#tutorialscourses-by-languages)
+  - [Algorithm](#algorithm)
   - [Python](#python)
   - [HTML/CSS](#htmlcss)
   - [Javascript](#javascript)
@@ -24,6 +25,10 @@ On the Internet, there are many tutorials/courses to learn development, except t
 - [License](#license)
 
 ## Tutorials/Courses by languages
+
+### Algorithm
+
+* [Courses](https://books.goalkicker.com/AlgorithmsBook/)
 
 ### Python
 
