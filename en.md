@@ -48,6 +48,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### Javascript
 
+* [Interactive Tutorial](https://learnjavascript.online/)
 * [Complete Guide](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 * [JavaScript Courses](https://books.goalkicker.com/JavaScriptBook/)
 * [NodeJS Courses](https://books.goalkicker.com/NodeJSBook/)
