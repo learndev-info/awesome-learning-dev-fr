@@ -101,7 +101,6 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 * [SQL Courses](https://books.goalkicker.com/SQLBook/)
 * [MySQL Courses](https://books.goalkicker.com/MySQLBook/)
-* [MongoDB Courses](https://books.goalkicker.com/MongoDBBook/)
 * [PostgreSQL Courses](https://books.goalkicker.com/PostgreSQLBook/)
 * [Documentation PostgreSQL](https://www.postgresql.org/docs/10/static/index.html) *Recommended database*
 * [Documentation MySQL/MariaDB](https://dev.mysql.com/doc/refman/8.0/en/)

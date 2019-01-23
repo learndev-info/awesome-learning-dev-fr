@@ -168,7 +168,6 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 * [Cours SQL](https://books.goalkicker.com/SQLBook/)
 * [Cours MySQL](https://books.goalkicker.com/MySQLBook/)
-* [Cours MongoDB](https://books.goalkicker.com/MongoDBBook/)
 * [Cours PostgreSQL](https://books.goalkicker.com/PostgreSQLBook/)
 * [Documentation PostgreSQL](https://www.postgresql.org/docs/10/static/index.html) *Base de données recommandée*
 * [Documentation MySQL/MariaDB](https://dev.mysql.com/doc/refman/8.0/en/)
