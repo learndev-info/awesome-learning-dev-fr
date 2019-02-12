@@ -43,6 +43,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 * [Tutoriel/Cours](https://inforef.be/swi/download/apprendre_python3_5.pdf)
+* [Formation Vidéo](https://www.youtube.com/watch?v=psaDHhZ0cPs&list=PLMS9Cy4Enq5JmIZtKE5OHJCI3jZfpASbR) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
@@ -137,6 +138,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 * [Tutoriel/Cours](https://www.jmdoudoux.fr/java/dej/indexavecframes.htm)
 * [Formation](https://www.youtube.com/watch?v=pXaaacSkPqc&list=PLBNheBxhHLQxfJhoz193-dRwvc2rl8AOW) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
+* [Formation Java](https://www.youtube.com/watch?v=XgVADKKb4jI&list=PLMS9Cy4Enq5LKYxJmD1ZIu3C7f3vA00hM) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1) 
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
