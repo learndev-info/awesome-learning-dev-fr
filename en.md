@@ -14,6 +14,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
   - [PHP](#php)
   - [C](#c)
   - [C++](#c-1)
+  - [Ruby](#ruby)
   - [Rust](#rust)
   - [Java](#java)
   - [Kotlin](#kotlin)
@@ -76,6 +77,10 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [Courses](https://books.goalkicker.com/CPlusPlusBook/)
 * [Cours](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Documentation C++](https://en.cppreference.com/w/)
+
+### Ruby
+
+* [Ruby Documentation](https://ruby-doc.org/)
 
 ### Rust
 
