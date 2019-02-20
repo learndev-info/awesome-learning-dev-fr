@@ -125,10 +125,12 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 * [Formation Ruby](https://www.grafikart.fr/formations/ruby) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
+* [Formation Ruby on Rails](https://www.grafikart.fr/formations/ruby-on-rails) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 * [Documentation Ruby](https://ruby-doc.org/)
+* [Documentation Ruby on Rails](https://guides.rubyonrails.org/)
 
 ### Rust
 

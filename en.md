@@ -81,6 +81,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 ### Ruby
 
 * [Ruby Documentation](https://ruby-doc.org/)
+* [Ruby on Rails Documentation](https://guides.rubyonrails.org/)
 
 ### Rust
 
