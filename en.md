@@ -36,7 +36,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 **Recommended language to start development**
 
 * [Courses](https://books.goalkicker.com/PythonBook/)
-* [Documentation Python](https://docs.python.org/3/)
+* [Python Documentation](https://docs.python.org/3/)
 
 ### HTML/CSS
 
@@ -44,8 +44,8 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [HTML Courses](https://books.goalkicker.com/HTML5Book/)
 * [CSS Courses](https://books.goalkicker.com/CSSBook/)
 * [HTML & CSS Tutorial/Courses](https://marksheet.io/)
-* [Documentation HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML) ou [Quick Reference](https://htmlreference.io/)
-* [Documentation CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS) ou [Quick Reference](https://cssreference.io/)
+* [HTML Documentation](https://developer.mozilla.org/en-US/docs/Glossary/HTML) or [Quick Reference](https://htmlreference.io/)
+* [CSS Documentation](https://developer.mozilla.org/en-US/docs/Glossary/CSS) or [Quick Reference](https://cssreference.io/)
 
 ### Javascript
 
@@ -55,14 +55,14 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [NodeJS Courses](https://books.goalkicker.com/NodeJSBook/)
 * [Tutorial/Courses](https://eloquentjavascript.net/) or [Other Tutorial/Courses](https://javascript.info/)
 * [To go further](https://github.com/getify/You-Dont-Know-JS)
-* [Documentation JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Documentation NodeJS](https://nodejs.org/api/)
+* [JS Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [NodeJS Documentation](https://nodejs.org/api/)
 * [OWASP (Security Supplement)](https://www.owasp.org/index.php/Main_Page)
 
 ### PHP
 
-* [Courses](https://phptherightway.com/) ou [Other Courses](https://books.goalkicker.com/PHPBook/)
-* [Documentation PHP](https://secure.php.net/)
+* [Courses](https://phptherightway.com/) or [Other Courses](https://books.goalkicker.com/PHPBook/)
+* [PHP Documentation](https://secure.php.net/)
 * [OWASP (Security Supplement)](https://www.owasp.org/index.php/Main_Page)
 * [Paragon Initiative (Security Complement, PHP oriented)](https://paragonie.com/)
 * [Security Checklist](https://www.sqreen.io/checklists/php-security-checklist)
@@ -70,13 +70,13 @@ On the Internet, there are many tutorials/courses to learn development, except t
 ### C
 
 * [Courses](https://books.goalkicker.com/CBook/)
-* [Documentation C](http://devdocs.io/c/)
+* [C Documentation](http://devdocs.io/c/)
 
 ### C++
 
 * [Courses](https://books.goalkicker.com/CPlusPlusBook/)
-* [Cours](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
-* [Documentation C++](https://en.cppreference.com/w/)
+* [Courses](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [C++ Documentation](https://en.cppreference.com/w/)
 
 ### Ruby
 
@@ -85,14 +85,14 @@ On the Internet, there are many tutorials/courses to learn development, except t
 ### Rust
 
 * [Tutorial/Courses](https://doc.rust-lang.org/book/)
-* [Rust by Exemple](https://doc.rust-lang.org/stable/rust-by-example/)
-* [Documentation](https://doc.rust-lang.org/std/index.html)
+* [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
+* [Rust Documentation](https://doc.rust-lang.org/std/index.html)
 
 ### Java
 
 * [Courses](https://books.goalkicker.com/JavaBook/)
 * [Tutorial/Courses](http://java2s.com/)
-* [Documentation](https://docs.oracle.com/javase)
+* [Java Documentation](https://docs.oracle.com/javase)
 
 ### Kotlin
 
@@ -108,9 +108,9 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [SQL Courses](https://books.goalkicker.com/SQLBook/)
 * [MySQL Courses](https://books.goalkicker.com/MySQLBook/)
 * [PostgreSQL Courses](https://books.goalkicker.com/PostgreSQLBook/)
-* [Documentation PostgreSQL](https://www.postgresql.org/docs/10/static/index.html) *Recommended database*
-* [Documentation MySQL/MariaDB](https://dev.mysql.com/doc/refman/8.0/en/)
-* [Documentation SQLite](https://sqlite.org/docs.html)
+* [PostgreSQL Documentation](https://www.postgresql.org/docs/10/static/index.html) *Recommended database*
+* [MySQL/MariaDB Documentation](https://dev.mysql.com/doc/refman/8.0/en/)
+* [SQLite Documentation](https://sqlite.org/docs.html)
 
 ## Text editors
 
@@ -124,7 +124,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [NetBeans](https://netbeans.org/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/apache/incubator-netbeans)
 * [PyCharm Community](https://www.jetbrains.com/pycharm/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/JetBrains/intellij-community/tree/master/python) (Python)
 * [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/) (C++, C, Java, HTML/CSS, Javascript) _Windows and Mac OS only_
-* [JetBrains](https://www.jetbrains.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1) _As a student, you can benefit of 1 year (renewable) of the entire Jetbrains suite for free_ (HTML/CSS, Javascript, C, C++, Ruby, C#, SQL)
+* [JetBrains](https://www.jetbrains.com/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1) _As a student, you can benefit of 1 year (renewable) of the entire Jetbrains suite for free_ (HTML/CSS, Javascript, C, C++, Ruby, C#, SQL)
 
 ## Sites to avoid
 
