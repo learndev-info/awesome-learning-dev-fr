@@ -18,6 +18,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
   - [Java](#java)
   - [Kotlin](#kotlin)
   - [SQL](#sql)
+  - [OCaml](#ocaml)
 - [Text editors](#text-editors)
 - [The IDEs](#the-ides)
 - [Sites to avoid](#sites-to-avoid)
@@ -106,6 +107,10 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [Documentation PostgreSQL](https://www.postgresql.org/docs/10/static/index.html) *Recommended database*
 * [Documentation MySQL/MariaDB](https://dev.mysql.com/doc/refman/8.0/en/)
 * [Documentation SQLite](https://sqlite.org/docs.html)
+
+### OCaml
+
+* [Courses](https://v1.realworldocaml.org/v1/en/html/index.html)
 
 ## Text editors
 
