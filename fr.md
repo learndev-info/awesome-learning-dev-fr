@@ -18,6 +18,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [Java](#java)
   - [Kotlin](#kotlin)
   - [SQL](#sql)
+  - [OCaml](#ocaml)
   - [Haskell](#haskell)
 - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
 - [Les IDE](#les-ide)
@@ -174,6 +175,16 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 * [Documentation PostgreSQL](https://www.postgresql.org/docs/10/static/index.html) *Base de données recommandée*
 * [Documentation MySQL/MariaDB](https://dev.mysql.com/doc/refman/8.0/en/)
 * [Documentation SQLite](https://sqlite.org/docs.html)
+
+### OCaml
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage.
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Cours](https://v1.realworldocaml.org/v1/en/html/index.html)
 
 ### Haskell
 
