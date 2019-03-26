@@ -19,6 +19,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [Kotlin](#kotlin)
   - [SQL](#sql)
   - [OCaml](#ocaml)
+  - [Haskell](#haskell)
 - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
 - [Les IDE](#les-ide)
 - [Les sites à éviter](#les-sites-%C3%A0-%C3%A9viter)
@@ -184,6 +185,20 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 * [Cours](https://v1.realworldocaml.org/v1/en/html/index.html)
+
+### Haskell
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+* [Apprendre Haskell vous fera le plus grand bien !](http://haskell.fr/lyah/)
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Tutoriel interactif](https://www.tryhaskell.org/)
+* [Livre](http://haskellbook.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [Cours](https://www.seas.upenn.edu/~cis194/fall16/index.html)
+* [Livre pour des applications concrètes](http://book.realworldhaskell.org/)
+* [Documentation](https://wiki.haskell.org/Haskell)
 
 ## Éditeurs génériques
 

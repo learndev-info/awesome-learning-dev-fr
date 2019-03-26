@@ -19,6 +19,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
   - [Kotlin](#kotlin)
   - [SQL](#sql)
   - [OCaml](#ocaml)
+  - [Haskell](#haskell)
 - [Text editors](#text-editors)
 - [The IDEs](#the-ides)
 - [Sites to avoid](#sites-to-avoid)
@@ -111,6 +112,15 @@ On the Internet, there are many tutorials/courses to learn development, except t
 ### OCaml
 
 * [Courses](https://v1.realworldocaml.org/v1/en/html/index.html)
+
+### Haskell
+
+* [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
+* [Course](https://www.seas.upenn.edu/~cis194/fall16/index.html)
+* [Book](http://haskellbook.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [Interactive tutorial](https://www.tryhaskell.org/)
+* [Book for concrete applications](http://book.realworldhaskell.org/read/)
+* [Documentation](https://wiki.haskell.org/Haskell)
 
 ## Text editors
 
