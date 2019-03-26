@@ -14,6 +14,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [PHP](#php)
   - [C](#c)
   - [C++](#c-1)
+  - [Ruby](#ruby)
   - [Rust](#rust)
   - [Java](#java)
   - [Kotlin](#kotlin)
@@ -120,6 +121,18 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 * [Cours](https://books.goalkicker.com/CPlusPlusBook/)
 * [Cours](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Documentation C++](https://en.cppreference.com/w/)
+
+### Ruby
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+* [Formation Ruby](https://www.grafikart.fr/formations/ruby) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
+* [Formation Ruby on Rails](https://www.grafikart.fr/formations/ruby-on-rails) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Documentation Ruby](https://ruby-doc.org/)
+* [Documentation Ruby on Rails](https://guides.rubyonrails.org/)
 
 ### Rust
 
