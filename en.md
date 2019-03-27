@@ -42,6 +42,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### HTML/CSS
 
+* [Interactive Tutorial](https://www.freecodecamp.org/)
 * [Complete Guide](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 * [HTML Courses](https://books.goalkicker.com/HTML5Book/)
 * [CSS Courses](https://books.goalkicker.com/CSSBook/)
@@ -51,11 +52,11 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### Javascript
 
-* [Interactive Tutorial](https://learnjavascript.online/)
+* [Tutorial/Courses](https://eloquentjavascript.net/) or [Other Tutorial/Courses](https://javascript.info/)
+* [Interactive Tutorial](https://learnjavascript.online/) or [Another one](https://www.freecodecamp.org/)
 * [Complete Guide](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 * [JavaScript Courses](https://books.goalkicker.com/JavaScriptBook/)
 * [NodeJS Courses](https://books.goalkicker.com/NodeJSBook/)
-* [Tutorial/Courses](https://eloquentjavascript.net/) or [Other Tutorial/Courses](https://javascript.info/)
 * [To go further](https://github.com/getify/You-Dont-Know-JS)
 * [JS Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [NodeJS Documentation](https://nodejs.org/api/)
