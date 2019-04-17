@@ -148,10 +148,8 @@ On the Internet, there are many tutorials/courses to learn development, except t
 These sites provide a lot of false and/or obsolete information and should not be used
 
 * OpenClassrooms
-* W3Schools _If you are wondering why this site is listed here, [here is the answer](https://xela.isfucking.cool/blog/en/why-is-w3schools-bad)_
+* W3Schools
 * W3Resource
-
-To hide these sites from Google, DuckDuckGo, Qwant results, a Tampermonkey script [is available](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/tampermonkey.js)
 
 ## Useful links
 
