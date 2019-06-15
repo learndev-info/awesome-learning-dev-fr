@@ -14,6 +14,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [PHP](#php)
   - [C](#c)
   - [C++](#c-1)
+  - [C#](#c-2)
   - [Go](#go)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -123,6 +124,20 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 * [Cours](https://books.goalkicker.com/CPlusPlusBook/)
 * [Cours](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Documentation C++](https://en.cppreference.com/w/)
+
+### C#
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+* [Guide](https://docs.microsoft.com/fr-fr/dotnet/csharp/)
+* [ASP.NET](https://docs.microsoft.com/fr-fr/aspnet/)
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Guide](https://docs.microsoft.com/en-us/dotnet/csharp/)
+* [ASP.NET](https://docs.microsoft.com/en-us/aspnet/)
+* [Dot.Blog Collection](http://www.e-naxos.com/AllDotBlog.html)
+* [LINQ](https://codeblog.jonskeet.uk/category/edulinq/)
 
 ### Go
 
