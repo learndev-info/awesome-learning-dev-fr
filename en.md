@@ -14,6 +14,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
   - [PHP](#php)
   - [C](#c)
   - [C++](#c-1)
+  - [Go](#go)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Java](#java)
@@ -80,6 +81,12 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [Courses](https://books.goalkicker.com/CPlusPlusBook/)
 * [Courses](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [C++ Documentation](https://en.cppreference.com/w/)
+
+### Go
+
+* [Basics](https://tour.golang.org/welcome/1)
+* [To go further](https://golang.org/doc/effective_go.html)
+* [Courses](http://www.gopl.io/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 
 ### Ruby
 

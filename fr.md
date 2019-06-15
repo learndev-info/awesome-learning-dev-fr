@@ -14,6 +14,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [PHP](#php)
   - [C](#c)
   - [C++](#c-1)
+  - [Go](#go)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Java](#java)
@@ -122,6 +123,18 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 * [Cours](https://books.goalkicker.com/CPlusPlusBook/)
 * [Cours](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Documentation C++](https://en.cppreference.com/w/)
+
+### Go
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage.
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Basics](https://tour.golang.org/welcome/1)
+* [To go further](https://golang.org/doc/effective_go.html)
+* [Courses](http://www.gopl.io/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 
 ### Ruby
 
