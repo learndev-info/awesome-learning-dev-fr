@@ -23,6 +23,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [SQL](#sql)
   - [OCaml](#ocaml)
   - [Haskell](#haskell)
+  - [Sécurité](#securite)
 - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
 - [Les IDE](#les-ide)
 - [Les sites à éviter](#les-sites-%C3%A0-%C3%A9viter)
@@ -233,6 +234,12 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 * [Apprendre Haskell vous fera le plus grand bien !](http://haskell.fr/lyah/)
+
+### Sécurité
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+* [MOOC de l'ANSII](https://secnumacademie.gouv.fr/)
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
