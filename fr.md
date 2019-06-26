@@ -235,12 +235,6 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 * [Apprendre Haskell vous fera le plus grand bien !](http://haskell.fr/lyah/)
 
-### Sécurité
-
-#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
-
-* [MOOC de l'ANSII](https://secnumacademie.gouv.fr/)
-
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 * [Tutoriel interactif](https://www.tryhaskell.org/)
@@ -248,6 +242,12 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 * [Cours](https://www.seas.upenn.edu/~cis194/fall16/index.html)
 * [Livre pour des applications concrètes](http://book.realworldhaskell.org/)
 * [Documentation](https://wiki.haskell.org/Haskell)
+
+### Sécurité
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+* [MOOC de l'ANSII](https://secnumacademie.gouv.fr/)
 
 ## Éditeurs génériques
 
