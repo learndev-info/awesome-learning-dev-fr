@@ -22,7 +22,6 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
-  - [Rust](#rust)
   - [SQL](#sql)
 - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
 - [Les IDE](#les-ide)
