@@ -41,67 +41,6 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 
 * [Tutoriel](https://books.goalkicker.com/AlgorithmsBook/)
 
-### Python
-
-**Langage recommandé pour commencer le développement**
-
-#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
-
-* [Tutoriel/Cours](https://inforef.be/swi/download/apprendre_python3_5.pdf)
-
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
-
-* [Cours](https://books.goalkicker.com/PythonBook/)
-* [Documentation Python](https://docs.python.org/3/)
-
-### HTML/CSS
-
-#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
-
-* [Guide complet](https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web)
-* [Formation HTML](https://www.grafikart.fr/formations/html) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
-* [Formation CSS](https://www.grafikart.fr/formations/css) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
-
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
-
-* [Tutoriel Interactif](https://www.freecodecamp.org/)
-* [Cours HTML](https://books.goalkicker.com/HTML5Book/)
-* [Cours CSS](https://books.goalkicker.com/CSSBook/)
-* [Tutoriel/Cours HTML & CSS](https://marksheet.io/)
-* [Documentation HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML) ou [Référence Rapide](https://htmlreference.io/)
-* [Documentation CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS) ou [Référence Rapide](https://cssreference.io/)
-
-### Javascript
-
-#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
-
-* [Guide complet](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps)
-
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
-
-* [Tutoriel/Cours](https://eloquentjavascript.net/) ou [Autre Tutoriel/Cours](https://javascript.info/)
-* [Tutoriel Interactif](https://learnjavascript.online/) ou [Un autre](https://www.freecodecamp.org/)
-* [Cours JavaScript](https://books.goalkicker.com/JavaScriptBook/)
-* [Cours NodeJS](https://books.goalkicker.com/NodeJSBook/)
-* [Pour aller plus loin](https://github.com/getify/You-Dont-Know-JS)
-* [Documentation JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Documentation NodeJS](https://nodejs.org/api/)
-* [OWASP (Complément sur la sécurité)](https://www.owasp.org/index.php/Main_Page)
-
-### PHP
-
-#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
-
-* [Tutoriel](https://www.pierre-giraud.com/php-mysql/cours-complet/cours-php-mysql-presentation.php) ou [Autre tutoriel](https://eilgin.github.io/php-the-right-way/)
-
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
-
-* [Cours](https://phptherightway.com/) ou [Autre cours](https://books.goalkicker.com/PHPBook/)
-* [Documentation PHP](https://secure.php.net/)
-* [OWASP (Complément sur la sécurité)](https://www.owasp.org/index.php/Main_Page)
-* [Initiative Paragon (Complément sur la sécurité, orienté PHP)](https://paragonie.com/)
-* [Liste de contrôle de sécurité](https://www.sqreen.io/checklists/php-security-checklist)
-
 ### C
 
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
@@ -151,6 +90,119 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 * [To go further](https://golang.org/doc/effective_go.html)
 * [Courses](http://www.gopl.io/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 
+### Haskell
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+* [Apprendre Haskell vous fera le plus grand bien !](http://haskell.fr/lyah/)
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Tutoriel interactif](https://www.tryhaskell.org/)
+* [Livre](http://haskellbook.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [Cours](https://www.seas.upenn.edu/~cis194/fall16/index.html)
+* [Livre pour des applications concrètes](http://book.realworldhaskell.org/)
+* [Documentation](https://wiki.haskell.org/Haskell)
+
+### HTML/CSS
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+* [Guide complet](https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web)
+* [Formation HTML](https://www.grafikart.fr/formations/html) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
+* [Formation CSS](https://www.grafikart.fr/formations/css) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Tutoriel Interactif](https://www.freecodecamp.org/)
+* [Cours HTML](https://books.goalkicker.com/HTML5Book/)
+* [Cours CSS](https://books.goalkicker.com/CSSBook/)
+* [Tutoriel/Cours HTML & CSS](https://marksheet.io/)
+* [Documentation HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML) ou [Référence Rapide](https://htmlreference.io/)
+* [Documentation CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS) ou [Référence Rapide](https://cssreference.io/)
+
+### Java
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+* [Tutoriel/Cours](https://www.jmdoudoux.fr/java/dej/indexavecframes.htm)
+* [Formation](https://www.youtube.com/watch?v=pXaaacSkPqc&list=PLBNheBxhHLQxfJhoz193-dRwvc2rl8AOW) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Cours](https://books.goalkicker.com/JavaBook/)
+* [Tutoriel/Cours](http://java2s.com/)
+* [Documentation](https://docs.oracle.com/javase)
+
+### Javascript
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+* [Guide complet](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps)
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Tutoriel/Cours](https://eloquentjavascript.net/) ou [Autre Tutoriel/Cours](https://javascript.info/)
+* [Tutoriel Interactif](https://learnjavascript.online/) ou [Un autre](https://www.freecodecamp.org/)
+* [Cours JavaScript](https://books.goalkicker.com/JavaScriptBook/)
+* [Cours NodeJS](https://books.goalkicker.com/NodeJSBook/)
+* [Pour aller plus loin](https://github.com/getify/You-Dont-Know-JS)
+* [Documentation JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Documentation NodeJS](https://nodejs.org/api/)
+* [OWASP (Complément sur la sécurité)](https://www.owasp.org/index.php/Main_Page)
+
+### Kotlin
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage.
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Cours](https://books.goalkicker.com/KotlinBook/)
+* [Kotlin en action](https://www.manning.com/books/kotlin-in-action)
+* [Fondamentale de Kotlin](http://www.fundamental-kotlin.com/)
+* [Programmation avec Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
+* [Développement web moderne avec Kotlin](https://leanpub.com/modern-web-development-with-kotlin)
+* [Guide, livre et références officiels](https://kotlinlang.org/docs/reference/)
+
+### OCaml
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage.
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Cours](https://v1.realworldocaml.org/v1/en/html/index.html)
+
+### PHP
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+* [Tutoriel](https://www.pierre-giraud.com/php-mysql/cours-complet/cours-php-mysql-presentation.php) ou [Autre tutoriel](https://eilgin.github.io/php-the-right-way/)
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Cours](https://phptherightway.com/) ou [Autre cours](https://books.goalkicker.com/PHPBook/)
+* [Documentation PHP](https://secure.php.net/)
+* [OWASP (Complément sur la sécurité)](https://www.owasp.org/index.php/Main_Page)
+* [Initiative Paragon (Complément sur la sécurité, orienté PHP)](https://paragonie.com/)
+* [Liste de contrôle de sécurité](https://www.sqreen.io/checklists/php-security-checklist)
+
+### Python
+
+**Langage recommandé pour commencer le développement**
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+* [Tutoriel/Cours](https://inforef.be/swi/download/apprendre_python3_5.pdf)
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Cours](https://books.goalkicker.com/PythonBook/)
+* [Documentation Python](https://docs.python.org/3/)
+
 ### Ruby
 
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
@@ -175,34 +227,6 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 * [Rust par l'exemple](https://doc.rust-lang.org/stable/rust-by-example/)
 * [Documentation](https://doc.rust-lang.org/std/index.html)
 
-### Java
-
-#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
-
-* [Tutoriel/Cours](https://www.jmdoudoux.fr/java/dej/indexavecframes.htm)
-* [Formation](https://www.youtube.com/watch?v=pXaaacSkPqc&list=PLBNheBxhHLQxfJhoz193-dRwvc2rl8AOW) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
-
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
-
-* [Cours](https://books.goalkicker.com/JavaBook/)
-* [Tutoriel/Cours](http://java2s.com/)
-* [Documentation](https://docs.oracle.com/javase)
-
-### Kotlin
-
-#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
-
-Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage.
-
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
-
-* [Cours](https://books.goalkicker.com/KotlinBook/)
-* [Kotlin en action](https://www.manning.com/books/kotlin-in-action)
-* [Fondamentale de Kotlin](http://www.fundamental-kotlin.com/)
-* [Programmation avec Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
-* [Développement web moderne avec Kotlin](https://leanpub.com/modern-web-development-with-kotlin)
-* [Guide, livre et références officiels](https://kotlinlang.org/docs/reference/)
-
 ### SQL
 
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
@@ -218,29 +242,9 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 * [Documentation MySQL/MariaDB](https://dev.mysql.com/doc/refman/8.0/en/)
 * [Documentation SQLite](https://sqlite.org/docs.html)
 
-### OCaml
 
-#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
-Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage.
 
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
-
-* [Cours](https://v1.realworldocaml.org/v1/en/html/index.html)
-
-### Haskell
-
-#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
-
-* [Apprendre Haskell vous fera le plus grand bien !](http://haskell.fr/lyah/)
-
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
-
-* [Tutoriel interactif](https://www.tryhaskell.org/)
-* [Livre](http://haskellbook.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
-* [Cours](https://www.seas.upenn.edu/~cis194/fall16/index.html)
-* [Livre pour des applications concrètes](http://book.realworldhaskell.org/)
-* [Documentation](https://wiki.haskell.org/Haskell)
 
 ### Sécurité
 
