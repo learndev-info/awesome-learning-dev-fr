@@ -8,21 +8,21 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 - [Tutorials/Courses by languages](#tutorialscourses-by-languages)
   - [Algorithm](#algorithm)
-  - [Python](#python)
-  - [HTML/CSS](#htmlcss)
-  - [Javascript](#javascript)
-  - [PHP](#php)
   - [C](#c)
   - [C++](#c-1)
   - [C#](#c-2)
   - [Go](#go)
+  - [Haskell](#haskell)
+  - [HTML/CSS](#htmlcss)
+  - [Java](#java)
+  - [Javascript](#javascript)
+  - [Kotlin](#kotlin)
+  - [OCaml](#ocaml)
+  - [PHP](#php)
+  - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
-  - [Java](#java)
-  - [Kotlin](#kotlin)
   - [SQL](#sql)
-  - [OCaml](#ocaml)
-  - [Haskell](#haskell)
 - [Text editors](#text-editors)
 - [The IDEs](#the-ides)
 - [Sites to avoid](#sites-to-avoid)
@@ -34,43 +34,6 @@ On the Internet, there are many tutorials/courses to learn development, except t
 ### Algorithm
 
 * [Courses](https://books.goalkicker.com/AlgorithmsBook/)
-
-### Python
-
-**Recommended language to start development**
-
-* [Courses](https://books.goalkicker.com/PythonBook/)
-* [Python Documentation](https://docs.python.org/3/)
-
-### HTML/CSS
-
-* [Interactive Tutorial](https://www.freecodecamp.org/)
-* [Complete Guide](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
-* [HTML Courses](https://books.goalkicker.com/HTML5Book/)
-* [CSS Courses](https://books.goalkicker.com/CSSBook/)
-* [HTML & CSS Tutorial/Courses](https://marksheet.io/)
-* [HTML Documentation](https://developer.mozilla.org/en-US/docs/Glossary/HTML) or [Quick Reference](https://htmlreference.io/)
-* [CSS Documentation](https://developer.mozilla.org/en-US/docs/Glossary/CSS) or [Quick Reference](https://cssreference.io/)
-
-### Javascript
-
-* [Tutorial/Courses](https://eloquentjavascript.net/) or [Other Tutorial/Courses](https://javascript.info/)
-* [Interactive Tutorial](https://learnjavascript.online/) or [Another one](https://www.freecodecamp.org/)
-* [Complete Guide](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
-* [JavaScript Courses](https://books.goalkicker.com/JavaScriptBook/)
-* [NodeJS Courses](https://books.goalkicker.com/NodeJSBook/)
-* [To go further](https://github.com/getify/You-Dont-Know-JS)
-* [JS Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [NodeJS Documentation](https://nodejs.org/api/)
-* [OWASP (Security Supplement)](https://www.owasp.org/index.php/Main_Page)
-
-### PHP
-
-* [Courses](https://phptherightway.com/) or [Other Courses](https://books.goalkicker.com/PHPBook/)
-* [PHP Documentation](https://secure.php.net/)
-* [OWASP (Security Supplement)](https://www.owasp.org/index.php/Main_Page)
-* [Paragon Initiative (Security Complement, PHP oriented)](https://paragonie.com/)
-* [Security Checklist](https://www.sqreen.io/checklists/php-security-checklist)
 
 ### C
 
@@ -96,6 +59,71 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [To go further](https://golang.org/doc/effective_go.html)
 * [Courses](http://www.gopl.io/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 
+### Haskell
+
+* [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
+* [Course](https://www.seas.upenn.edu/~cis194/fall16/index.html)
+* [Book](http://haskellbook.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [Interactive tutorial](https://www.tryhaskell.org/)
+* [Book for concrete applications](http://book.realworldhaskell.org/read/)
+* [Documentation](https://wiki.haskell.org/Haskell)
+
+### HTML/CSS
+
+* [Interactive Tutorial](https://www.freecodecamp.org/)
+* [Complete Guide](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+* [HTML Courses](https://books.goalkicker.com/HTML5Book/)
+* [CSS Courses](https://books.goalkicker.com/CSSBook/)
+* [HTML & CSS Tutorial/Courses](https://marksheet.io/)
+* [HTML Documentation](https://developer.mozilla.org/en-US/docs/Glossary/HTML) or [Quick Reference](https://htmlreference.io/)
+* [CSS Documentation](https://developer.mozilla.org/en-US/docs/Glossary/CSS) or [Quick Reference](https://cssreference.io/)
+
+### Java
+
+* [Courses](https://books.goalkicker.com/JavaBook/)
+* [Tutorial/Courses](http://java2s.com/)
+* [Java Documentation](https://docs.oracle.com/javase)
+
+### Javascript
+
+* [Tutorial/Courses](https://eloquentjavascript.net/) or [Other Tutorial/Courses](https://javascript.info/)
+* [Interactive Tutorial](https://learnjavascript.online/) or [Another one](https://www.freecodecamp.org/)
+* [Complete Guide](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+* [JavaScript Courses](https://books.goalkicker.com/JavaScriptBook/)
+* [NodeJS Courses](https://books.goalkicker.com/NodeJSBook/)
+* [To go further](https://github.com/getify/You-Dont-Know-JS)
+* [JS Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [NodeJS Documentation](https://nodejs.org/api/)
+* [OWASP (Security Supplement)](https://www.owasp.org/index.php/Main_Page)
+
+### Kotlin
+
+* [Courses](https://books.goalkicker.com/KotlinBook/)
+* [Kotlin in action](https://www.manning.com/books/kotlin-in-action)
+* [Fundamental Kotlin](http://www.fundamental-kotlin.com/)
+* [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
+* [Modern Web Development with Kotlin](https://leanpub.com/modern-web-development-with-kotlin)
+* [Guide, book and official references](https://kotlinlang.org/docs/reference/)
+
+### OCaml
+
+* [Courses](https://v1.realworldocaml.org/v1/en/html/index.html)
+
+### PHP
+
+* [Courses](https://phptherightway.com/) or [Other Courses](https://books.goalkicker.com/PHPBook/)
+* [PHP Documentation](https://secure.php.net/)
+* [OWASP (Security Supplement)](https://www.owasp.org/index.php/Main_Page)
+* [Paragon Initiative (Security Complement, PHP oriented)](https://paragonie.com/)
+* [Security Checklist](https://www.sqreen.io/checklists/php-security-checklist)
+
+### Python
+
+**Recommended language to start development**
+
+* [Courses](https://books.goalkicker.com/PythonBook/)
+* [Python Documentation](https://docs.python.org/3/)
+
 ### Ruby
 
 * [Ruby Documentation](https://ruby-doc.org/)
@@ -107,21 +135,6 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
 * [Rust Documentation](https://doc.rust-lang.org/std/index.html)
 
-### Java
-
-* [Courses](https://books.goalkicker.com/JavaBook/)
-* [Tutorial/Courses](http://java2s.com/)
-* [Java Documentation](https://docs.oracle.com/javase)
-
-### Kotlin
-
-* [Courses](https://books.goalkicker.com/KotlinBook/)
-* [Kotlin in action](https://www.manning.com/books/kotlin-in-action)
-* [Fundamental Kotlin](http://www.fundamental-kotlin.com/)
-* [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
-* [Modern Web Development with Kotlin](https://leanpub.com/modern-web-development-with-kotlin)
-* [Guide, book and official references](https://kotlinlang.org/docs/reference/)
-
 ### SQL
 
 * [SQL Courses](https://books.goalkicker.com/SQLBook/)
@@ -130,19 +143,6 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [PostgreSQL Documentation](https://www.postgresql.org/docs/10/static/index.html) *Recommended database*
 * [MySQL/MariaDB Documentation](https://dev.mysql.com/doc/refman/8.0/en/)
 * [SQLite Documentation](https://sqlite.org/docs.html)
-
-### OCaml
-
-* [Courses](https://v1.realworldocaml.org/v1/en/html/index.html)
-
-### Haskell
-
-* [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
-* [Course](https://www.seas.upenn.edu/~cis194/fall16/index.html)
-* [Book](http://haskellbook.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
-* [Interactive tutorial](https://www.tryhaskell.org/)
-* [Book for concrete applications](http://book.realworldhaskell.org/read/)
-* [Documentation](https://wiki.haskell.org/Haskell)
 
 ## Text editors
 
