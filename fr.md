@@ -228,6 +228,12 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 * [Rust par l'exemple](https://doc.rust-lang.org/stable/rust-by-example/)
 * [Documentation](https://doc.rust-lang.org/std/index.html)
 
+### Sécurité
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+* [MOOC de l'ANSII](https://secnumacademie.gouv.fr/)
+
 ### SQL
 
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
@@ -242,16 +248,6 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 * [Documentation PostgreSQL](https://www.postgresql.org/docs/10/static/index.html) *Base de données recommandée*
 * [Documentation MySQL/MariaDB](https://dev.mysql.com/doc/refman/8.0/en/)
 * [Documentation SQLite](https://sqlite.org/docs.html)
-
-
-
-
-
-### Sécurité
-
-#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
-
-* [MOOC de l'ANSII](https://secnumacademie.gouv.fr/)
 
 ## Éditeurs génériques
 
