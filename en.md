@@ -33,95 +33,95 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### Algorithm
 
-* [Courses](https://books.goalkicker.com/AlgorithmsBook/)
+* [Courses (GoalKicker)](https://books.goalkicker.com/AlgorithmsBook/)
 
 ### C
 
-* [Courses](https://books.goalkicker.com/CBook/)
-* [C Documentation](http://devdocs.io/c/)
+* [Courses (GoalKicker)](https://books.goalkicker.com/CBook/)
+* [C Documentation (DevDocs)](http://devdocs.io/c/)
 
 ### C++
 
-* [Courses](https://books.goalkicker.com/CPlusPlusBook/)
-* [Courses](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
-* [C++ Documentation](https://en.cppreference.com/w/)
+* [Courses (GoalKicker)](https://books.goalkicker.com/CPlusPlusBook/)
+* [Courses (C++ Primer by Lippman on Amazon)](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [C++ Documentation (Cpp Reference)](https://en.cppreference.com/w/)
 
 ### C#
 
-* [Guide](https://docs.microsoft.com/en-us/dotnet/csharp/)
-* [ASP.NET](https://docs.microsoft.com/en-us/aspnet/)
-* [Dot.Blog Collection](http://www.e-naxos.com/AllDotBlog.html)
-* [LINQ](https://codeblog.jonskeet.uk/category/edulinq/)
+* [Guide (Microsoft Doc)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+* [ASP.NET (Microsoft Doc)](https://docs.microsoft.com/en-us/aspnet/)
+* [Dot.Blog Collection (E-Naxos)](http://www.e-naxos.com/AllDotBlog.html)
+* [LINQ (Jon Skeet's coding blog)](https://codeblog.jonskeet.uk/category/edulinq/)
 
 ### Go
 
-* [Basics](https://tour.golang.org/welcome/1)
-* [To go further](https://golang.org/doc/effective_go.html)
-* [Courses](http://www.gopl.io/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [Basics (Tour Golang)](https://tour.golang.org/welcome/1)
+* [To go further (Doc Golang)](https://golang.org/doc/effective_go.html)
+* [Courses (The Go Programming Language by Alan A. A. Donovan and Brian W. Kernighan)](http://www.gopl.io/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 
 ### Haskell
 
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
-* [Course](https://www.seas.upenn.edu/~cis194/fall16/index.html)
-* [Book](http://haskellbook.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
-* [Interactive tutorial](https://www.tryhaskell.org/)
-* [Book for concrete applications](http://book.realworldhaskell.org/read/)
+* [Course (University of Pennsylvania)](https://www.seas.upenn.edu/~cis194/fall16/index.html)
+* [Book (Haskell Programming by Christopher Allen and Julie Moronuki)](http://haskellbook.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [Interactive tutorial (Try Haskell)](https://www.tryhaskell.org/)
+* [Book for concrete applications (Real World Haskell by Bryan O'Sullivan, Don Stewart and John Goerzen)](http://book.realworldhaskell.org/read/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Documentation](https://wiki.haskell.org/Haskell)
 
 ### HTML/CSS
 
-* [Interactive Tutorial](https://www.freecodecamp.org/)
-* [Complete Guide](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
-* [HTML Courses](https://books.goalkicker.com/HTML5Book/)
-* [CSS Courses](https://books.goalkicker.com/CSSBook/)
-* [HTML & CSS Tutorial/Courses](https://marksheet.io/)
-* [HTML Documentation](https://developer.mozilla.org/en-US/docs/Glossary/HTML) or [Quick Reference](https://htmlreference.io/)
-* [CSS Documentation](https://developer.mozilla.org/en-US/docs/Glossary/CSS) or [Quick Reference](https://cssreference.io/)
+* [Interactive Tutorial (FreeCodeCamp)](https://www.freecodecamp.org/)
+* [Complete Guide (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+* [HTML Courses (GoalKicker)](https://books.goalkicker.com/HTML5Book/)
+* [CSS Courses (GoalKicker)](https://books.goalkicker.com/CSSBook/)
+* [HTML & CSS Tutorial/Courses (Marksheet)](https://marksheet.io/)
+* [HTML Documentation (MDN)](https://developer.mozilla.org/en-US/docs/Glossary/HTML) or [Quick Reference (HTML Reference)](https://htmlreference.io/)
+* [CSS Documentation (MDN)](https://developer.mozilla.org/en-US/docs/Glossary/CSS) or [Quick Reference (CSS Reference)](https://cssreference.io/)
 
 ### Java
 
-* [Courses](https://books.goalkicker.com/JavaBook/)
-* [Tutorial/Courses](http://java2s.com/)
-* [Java Documentation](https://docs.oracle.com/javase)
+* [Courses (GoalKicker)](https://books.goalkicker.com/JavaBook/)
+* [Tutorial/Courses (Java2S)](http://java2s.com/)
+* [Java Documentation (Oracle)](https://docs.oracle.com/javase)
 
 ### Javascript
 
-* [Tutorial/Courses](https://eloquentjavascript.net/) or [Other Tutorial/Courses](https://javascript.info/)
-* [Interactive Tutorial](https://learnjavascript.online/) or [Another one](https://www.freecodecamp.org/)
-* [Complete Guide](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
-* [JavaScript Courses](https://books.goalkicker.com/JavaScriptBook/)
-* [NodeJS Courses](https://books.goalkicker.com/NodeJSBook/)
-* [To go further](https://github.com/getify/You-Dont-Know-JS)
-* [JS Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Tutorial/Courses (Eloquent JavaScript)](https://eloquentjavascript.net/) or [Other Tutorial/Courses (JavaScript.info)](https://javascript.info/)
+* [Interactive Tutorial (LearnJavaScript)](https://learnjavascript.online/) or [Another one (FreeCodeCamp)](https://www.freecodecamp.org/)
+* [Complete Guide (MDN)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+* [JavaScript Courses (GoalKicker)](https://books.goalkicker.com/JavaScriptBook/)
+* [NodeJS Courses (GoalKicker)](https://books.goalkicker.com/NodeJSBook/)
+* [To go further (You Don't Know JS)](https://github.com/getify/You-Dont-Know-JS)
+* [JS Documentation (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [NodeJS Documentation](https://nodejs.org/api/)
-* [OWASP (Security Supplement)](https://www.owasp.org/index.php/Main_Page)
+* [Security Supplement (OWASP)](https://www.owasp.org/index.php/Main_Page)
 
 ### Kotlin
 
-* [Courses](https://books.goalkicker.com/KotlinBook/)
-* [Kotlin in action](https://www.manning.com/books/kotlin-in-action)
+* [Courses (GoalKicker)](https://books.goalkicker.com/KotlinBook/)
+* [Kotlin in action (Manning Publication)](https://www.manning.com/books/kotlin-in-action) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Fundamental Kotlin](http://www.fundamental-kotlin.com/)
-* [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
-* [Modern Web Development with Kotlin](https://leanpub.com/modern-web-development-with-kotlin)
+* [Programming Kotlin (Packt)](https://www.packtpub.com/application-development/programming-kotlin) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [Modern Web Development with Kotlin (LeanPub)](https://leanpub.com/modern-web-development-with-kotlin) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Guide, book and official references](https://kotlinlang.org/docs/reference/)
 
 ### OCaml
 
-* [Courses](https://v1.realworldocaml.org/v1/en/html/index.html)
+* [Courses (Real World OCaml)](https://v1.realworldocaml.org/v1/en/html/index.html)
 
 ### PHP
 
-* [Courses](https://phptherightway.com/) or [Other Courses](https://books.goalkicker.com/PHPBook/)
+* [Courses (PHP The Right Way)](https://phptherightway.com/) or [Other Courses (GoalKicker)](https://books.goalkicker.com/PHPBook/)
 * [PHP Documentation](https://secure.php.net/)
-* [OWASP (Security Supplement)](https://www.owasp.org/index.php/Main_Page)
-* [Paragon Initiative (Security Complement, PHP oriented)](https://paragonie.com/)
-* [Security Checklist](https://www.sqreen.io/checklists/php-security-checklist)
+* [Security Supplement (OWASP)](https://www.owasp.org/index.php/Main_Page)
+* [Security Complement, PHP oriented (Paragon Initiative)](https://paragonie.com/)
+* [Security Checklist (Sqreen)](https://www.sqreen.io/checklists/php-security-checklist)
 
 ### Python
 
 **Recommended language to start development**
 
-* [Courses](https://books.goalkicker.com/PythonBook/)
+* [Courses (GoalKicker)](https://books.goalkicker.com/PythonBook/)
 * [Python Documentation](https://docs.python.org/3/)
 
 ### Ruby
@@ -137,9 +137,9 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### SQL
 
-* [SQL Courses](https://books.goalkicker.com/SQLBook/)
-* [MySQL Courses](https://books.goalkicker.com/MySQLBook/)
-* [PostgreSQL Courses](https://books.goalkicker.com/PostgreSQLBook/)
+* [SQL Courses (GoalKicker)](https://books.goalkicker.com/SQLBook/)
+* [MySQL Courses (GoalKicker)](https://books.goalkicker.com/MySQLBook/)
+* [PostgreSQL Courses (GoalKicker)](https://books.goalkicker.com/PostgreSQLBook/)
 * [PostgreSQL Documentation](https://www.postgresql.org/docs/10/static/index.html) *Recommended database*
 * [MySQL/MariaDB Documentation](https://dev.mysql.com/doc/refman/8.0/en/)
 * [SQLite Documentation](https://sqlite.org/docs.html)
