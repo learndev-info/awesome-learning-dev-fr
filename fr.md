@@ -57,7 +57,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
-* [Tutoriel/Cours (Guillaume Belz)](http://guillaume.belz.free.fr/doku.php?id=programmez_avec_le_langage_c) ou [un autre (Zeste de Savoir)](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/)
+* [Tutoriel/Cours (Zeste de Savoir)](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/)
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
