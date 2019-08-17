@@ -258,6 +258,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 ## Les IDE
 
 * [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/JetBrains/intellij-community) (Java, Kotlin, Scala, Rust)
+* [Eclipse](https://www.eclipse.org/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/apache/incubator-netbeans)
 * [NetBeans](https://netbeans.org/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/apache/incubator-netbeans)
 * [PyCharm Community](https://www.jetbrains.com/pycharm/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/JetBrains/intellij-community/tree/master/python) (Python)
 * [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/) (C++, C, Java, HTML/CSS, Javascript) _Windows et Mac OS seulement_
