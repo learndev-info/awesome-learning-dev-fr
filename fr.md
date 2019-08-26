@@ -8,6 +8,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 
 - [Tutoriels/Cours par langages](#tutorielscours-par-langages)
   - [Algorithmie](#algorithmie)
+  - [Bash](#bash)
   - [C](#c)
   - [C++](#c-1)
   - [C#](#c-2)
@@ -41,6 +42,16 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 * [Tutoriel (GoalKicker)](https://books.goalkicker.com/AlgorithmsBook/)
+
+### Bash
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage.
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Bash HOWTO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-1.html)
 
 ### C
 
