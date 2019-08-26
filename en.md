@@ -8,6 +8,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 - [Tutorials/Courses by languages](#tutorialscourses-by-languages)
   - [Algorithm](#algorithm)
+  - [Bash](#bash)
   - [C](#c)
   - [C++](#c-1)
   - [C#](#c-2)
@@ -34,6 +35,10 @@ On the Internet, there are many tutorials/courses to learn development, except t
 ### Algorithm
 
 * [Courses (GoalKicker)](https://books.goalkicker.com/AlgorithmsBook/)
+
+### Bash
+
+* [Bash HOWTO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-1.html)
 
 ### C
 
