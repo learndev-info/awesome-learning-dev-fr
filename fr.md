@@ -270,7 +270,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 Ces sites donnent de nombreuses informations fausses et/ou obsolètes et ne devraient pas être utilisés
 
 * OpenClassrooms
-* W3Schools
+* W3Schools *(Si vous vous demandez pourquoi ce site est listé ici, [voici la réponse](http://web.archive.org/web/20190401114917/https://xela.isfucking.cool/blog/fr/why-is-w3schools-bad))*
 * W3Resource
 * La chaîne youtube de PrimFX
 
