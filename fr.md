@@ -254,7 +254,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 * [Visual Studio Code](https://code.visualstudio.com/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/Microsoft/vscode)
 * [Sublime Text](https://www.sublimetext.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1) _Gratuit pour un usage personnel_
 * [Atom](https://atom.io/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/atom/atom) _Attention! Atom est relativement lent comparé à VS Code ou Sublime Text_
-* [Brackets](http://brackets.io/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/atom/atom) _Orienté développement Web frontal_
+* [Brackets](http://brackets.io/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/atom/atom) _Orienté développement Web (front)_
 
 ## Les IDE
 
