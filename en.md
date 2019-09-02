@@ -154,10 +154,12 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [Visual Studio Code](https://code.visualstudio.com/) ![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)
 * [Sublime Text](https://www.sublimetext.com/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Atom](https://atom.io/) ![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1) _Warning ! Atom is pretty slow compared to VS Code or Sublime Text_
+* [Brackets](http://brackets.io/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/atom/atom) _Front-end web development oriented_
 
 ## The IDEs
 
 * [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/JetBrains/intellij-community) (Java, Kotlin, Scala, Rust)
+* [Eclipse](https://www.eclipse.org/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/apache/incubator-netbeans)
 * [NetBeans](https://netbeans.org/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/apache/incubator-netbeans)
 * [PyCharm Community](https://www.jetbrains.com/pycharm/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/JetBrains/intellij-community/tree/master/python) (Python)
 * [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/) (C++, C, Java, HTML/CSS, Javascript) _Windows and Mac OS only_
