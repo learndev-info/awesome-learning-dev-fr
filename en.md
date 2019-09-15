@@ -24,6 +24,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SQL](#sql)
+  - [Git](#git)
 - [Text editors](#text-editors)
 - [The IDEs](#the-ides)
 - [Sites to avoid](#sites-to-avoid)
@@ -148,6 +149,10 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [PostgreSQL Documentation](https://www.postgresql.org/docs/10/static/index.html) *Recommended database*
 * [MySQL/MariaDB Documentation](https://dev.mysql.com/doc/refman/8.0/en/)
 * [SQLite Documentation](https://sqlite.org/docs.html)
+
+### Git
+
+* [Official course](https://git-scm.com/book/en/v2)
 
 ## Text editors
 
