@@ -12,6 +12,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [C](#c)
   - [C++](#c-1)
   - [C#](#c-2)
+  - [Git](#git)
   - [Go](#go)
   - [Haskell](#haskell)
   - [HTML/CSS](#htmlcss)
@@ -25,7 +26,6 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [Rust](#rust)
   - [Sécurité](#sécurité)
   - [SQL](#sql)
-  - [Git](#git)
 - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
 - [Les IDE](#les-ide)
 - [Les sites à éviter](#les-sites-%C3%A0-%C3%A9viter)
@@ -90,6 +90,16 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 * [ASP.NET (Doc Microsoft)](https://docs.microsoft.com/en-us/aspnet/)
 * [Dot.Blog Collection (E-naxos)](http://www.e-naxos.com/AllDotBlog.html)
 * [LINQ (Jon Skeet's coding blog)](https://codeblog.jonskeet.uk/category/edulinq/)
+
+### Git
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+* [Traduction française du cours officiel](https://git-scm.com/book/fr/v2)
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Cours officiel](https://git-scm.com/book/en/v2)
 
 ### Go
 
@@ -260,16 +270,6 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 * [Documentation PostgreSQL](https://www.postgresql.org/docs/10/static/index.html) *Base de données recommandée*
 * [Documentation MySQL/MariaDB](https://dev.mysql.com/doc/refman/8.0/en/)
 * [Documentation SQLite](https://sqlite.org/docs.html)
-
-### Git
-
-#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
-
-* [Traduction française du cours officiel](https://git-scm.com/book/fr/v2)
-
-#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
-
-* [Cours officiel](https://git-scm.com/book/en/v2)
 
 ## Éditeurs génériques
 

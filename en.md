@@ -12,6 +12,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
   - [C](#c)
   - [C++](#c-1)
   - [C#](#c-2)
+  - [Git](#git)
   - [Go](#go)
   - [Haskell](#haskell)
   - [HTML/CSS](#htmlcss)
@@ -24,7 +25,6 @@ On the Internet, there are many tutorials/courses to learn development, except t
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SQL](#sql)
-  - [Git](#git)
 - [Text editors](#text-editors)
 - [The IDEs](#the-ides)
 - [Sites to avoid](#sites-to-avoid)
@@ -58,6 +58,10 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [ASP.NET (Microsoft Doc)](https://docs.microsoft.com/en-us/aspnet/)
 * [Dot.Blog Collection (E-Naxos)](http://www.e-naxos.com/AllDotBlog.html)
 * [LINQ (Jon Skeet's coding blog)](https://codeblog.jonskeet.uk/category/edulinq/)
+
+### Git
+
+* [Official course](https://git-scm.com/book/en/v2)
 
 ### Go
 
@@ -149,10 +153,6 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [PostgreSQL Documentation](https://www.postgresql.org/docs/10/static/index.html) *Recommended database*
 * [MySQL/MariaDB Documentation](https://dev.mysql.com/doc/refman/8.0/en/)
 * [SQLite Documentation](https://sqlite.org/docs.html)
-
-### Git
-
-* [Official course](https://git-scm.com/book/en/v2)
 
 ## Text editors
 
