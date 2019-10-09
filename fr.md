@@ -12,6 +12,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [C](#c)
   - [C++](#c-1)
   - [C#](#c-2)
+  - [Git](#git)
   - [Go](#go)
   - [Haskell](#haskell)
   - [HTML/CSS](#htmlcss)
@@ -89,6 +90,16 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 * [ASP.NET (Doc Microsoft)](https://docs.microsoft.com/en-us/aspnet/)
 * [Dot.Blog Collection (E-naxos)](http://www.e-naxos.com/AllDotBlog.html)
 * [LINQ (Jon Skeet's coding blog)](https://codeblog.jonskeet.uk/category/edulinq/)
+
+### Git
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+* [Traduction française du cours officiel](https://git-scm.com/book/fr/v2)
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Cours officiel](https://git-scm.com/book/en/v2)
 
 ### Go
 
