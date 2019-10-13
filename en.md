@@ -97,7 +97,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 ### Javascript
 
 * [Tutorial/Courses (Eloquent JavaScript)](https://eloquentjavascript.net/) or [Other Tutorial/Courses (JavaScript.info)](https://javascript.info/)
-* [Interactive Tutorial (LearnJavaScript)](https://learnjavascript.online/) or [Another one (FreeCodeCamp)](https://www.freecodecamp.org/)
+* [Interactive Tutorial (LearnJavaScript)](https://learnjavascript.online/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1) or [Another one (FreeCodeCamp)](https://www.freecodecamp.org/)
 * [Complete Guide (MDN)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 * [JavaScript Courses (GoalKicker)](https://books.goalkicker.com/JavaScriptBook/)
 * [NodeJS Courses (GoalKicker)](https://books.goalkicker.com/NodeJSBook/)

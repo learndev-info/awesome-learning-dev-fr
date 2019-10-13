@@ -166,7 +166,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 * [Tutoriel/Cours (Eloquent JavaScript)](https://eloquentjavascript.net/) ou [Autre Tutoriel/Cours (JavaScript.info)](https://javascript.info/)
-* [Tutoriel Interactif (Learn JavaScript)](https://learnjavascript.online/) ou [Un autre (FreeCodeCamp)](https://www.freecodecamp.org/)
+* [Tutoriel Interactif (Learn JavaScript)](https://learnjavascript.online/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1) ou [Un autre (FreeCodeCamp)](https://www.freecodecamp.org/)
 * [Cours JavaScript (GoalKicker)](https://books.goalkicker.com/JavaScriptBook/)
 * [Cours NodeJS (GoalKicker)](https://books.goalkicker.com/NodeJSBook/)
 * [Pour aller plus loin (You don't know JS)](https://github.com/getify/You-Dont-Know-JS)
