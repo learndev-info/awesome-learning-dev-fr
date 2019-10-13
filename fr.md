@@ -42,6 +42,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
+* [Cours (Introduction to Algorithms by Cormen sur Amazon)](https://www.amazon.fr/Introduction-Algorithms-3e-Thomas-Cormen/dp/0262033844/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Tutoriel (GoalKicker)](https://books.goalkicker.com/AlgorithmsBook/)
 
 ### Bash

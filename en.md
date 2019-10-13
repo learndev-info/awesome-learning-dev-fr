@@ -35,6 +35,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### Algorithm
 
+* [Courses (Introduction to Algorithms by Cormen on Amazon)](https://www.amazon.fr/Introduction-Algorithms-3e-Thomas-Cormen/dp/0262033844/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Courses (GoalKicker)](https://books.goalkicker.com/AlgorithmsBook/)
 
 ### Bash
