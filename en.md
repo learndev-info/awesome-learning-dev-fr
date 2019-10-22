@@ -106,12 +106,12 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [JS Documentation (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [NodeJS Documentation](https://nodejs.org/api/)
 * [Security Supplement (OWASP)](https://www.owasp.org/index.php/Main_Page)
-* [(PAID) JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/)
-* [(PAID) JavaScript: The New Hard Parts](https://frontendmasters.com/courses/javascript-new-hard-parts/)
-* [(PAID) JavaScript: The Hard Parts of Object Oriented JavaScript](https://frontendmasters.com/courses/object-oriented-js/)
-* [(PAID) Hard Parts: Functional JS Foundations](https://frontendmasters.com/courses/functional-js-fundamentals/)
-* [(PAID) The Hard Parts of Servers & Node.js](https://frontendmasters.com/courses/servers-node-js/)
-* [(PAID) JavaScript Performance](https://frontendmasters.com/courses/web-performance/)
+* [(FrontendMaster) JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [(FrontendMaster) JavaScript: The New Hard Parts](https://frontendmasters.com/courses/javascript-new-hard-parts/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [(FrontendMaster) JavaScript: The Hard Parts of Object Oriented JavaScript](https://frontendmasters.com/courses/object-oriented-js/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [(FrontendMaster) Hard Parts: Functional JS Foundations](https://frontendmasters.com/courses/functional-js-fundamentals/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [(FrontendMaster) The Hard Parts of Servers & Node.js](https://frontendmasters.com/courses/servers-node-js/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [(FrontendMaster) JavaScript Performance](https://frontendmasters.com/courses/web-performance/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 
 
 ### Kotlin
