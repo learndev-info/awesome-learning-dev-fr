@@ -303,6 +303,7 @@ Ces sites donnent de nombreuses informations fausses et/ou obsolètes et ne devr
 * W3Schools *(Si vous vous demandez pourquoi ce site est listé ici, [voici la réponse](http://web.archive.org/web/20190401114917/https://xela.isfucking.cool/blog/fr/why-is-w3schools-bad))*
 * W3Resource
 * La chaîne youtube de PrimFX
+* La chaîne youtube de Les Switchers Du Net
 
 ## Liens utiles
 
