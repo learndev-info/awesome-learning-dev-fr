@@ -103,7 +103,6 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 
 * [Clojure for the brave and true](https://www.braveclojure.com/foreword/)
 
-
 ### Git
 
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
