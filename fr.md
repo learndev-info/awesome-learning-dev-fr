@@ -12,6 +12,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [C](#c)
   - [C++](#c-1)
   - [C#](#c-2)
+  - [Clojure](#clojure)
   - [Git](#git)
   - [Go](#go)
   - [Haskell](#haskell)
@@ -91,6 +92,17 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 * [ASP.NET (Doc Microsoft)](https://docs.microsoft.com/en-us/aspnet/)
 * [Dot.Blog Collection (E-naxos)](http://www.e-naxos.com/AllDotBlog.html)
 * [LINQ (Jon Skeet's coding blog)](https://codeblog.jonskeet.uk/category/edulinq/)
+
+### Clojure
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour ce langage.
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Clojure for the brave and true](https://www.braveclojure.com/foreword/)
+
 
 ### Git
 
