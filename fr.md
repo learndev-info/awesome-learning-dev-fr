@@ -321,7 +321,7 @@ Ces sites sont une bonne source d'information pour de nombreux langages de progr
 
 * [Mozilla Developer Network / MDN](https://developer.mozilla.org/en-US/)
 * [DevDocs](https://devdocs.io/)
-* [GoalKicker](https://books.goalkicker.com/) _Livres de programmation **gratuits** dans un grand nombre de langues_
+* [GoalKicker](https://books.goalkicker.com/) _Livres de programmation **gratuits** dans un grand nombre de langages_
 
 ## Contribuer
 
