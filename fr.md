@@ -29,6 +29,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [SQL](#sql)
 - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
 - [Les IDE](#les-ide)
+- [Devenir développeur](#devenir-d%C3%A9veloppeur)
 - [Les sites à éviter](#les-sites-%C3%A0-%C3%A9viter)
 - [Liens utiles](#liens-utiles)
 - [Licence](#licence)
@@ -305,6 +306,12 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 * [PyCharm Community](https://www.jetbrains.com/pycharm/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/JetBrains/intellij-community/tree/master/python) (Python)
 * [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/) (C++, C, Java, HTML/CSS, Javascript) _Windows et Mac OS seulement_
 * [JetBrains](https://www.jetbrains.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1) _Si vous êtes lycéen/étudiant vous pouvez bénéficier de tous les outils JetBrains de façon totalement gratuite pendant 1 an (renouvelable)_ (HTML/CSS, Javascript, C, C++, Ruby, C#, SQL)
+
+## Devenir développeur
+
+* [Devenir développeur backend](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png)
+* [Devenir développeur frontend](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png)
+* [Devenir devops](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/devops.png)
 
 ## Les sites à éviter
 
