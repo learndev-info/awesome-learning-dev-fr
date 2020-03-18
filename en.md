@@ -86,6 +86,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### HTML/CSS
 
+* [Illustrated tutorial for total beginner (Interneting Is Hard)](https://www.internetingishard.com/)
 * [Interactive Tutorial (FreeCodeCamp)](https://www.freecodecamp.org/)
 * [Complete Guide (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 * [HTML Courses (GoalKicker)](https://books.goalkicker.com/HTML5Book/)
