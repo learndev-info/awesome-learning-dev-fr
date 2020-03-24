@@ -28,6 +28,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
   - [SQL](#sql)
 - [Text editors](#text-editors)
 - [The IDEs](#the-ides)
+- [Developper roadmap](#developper-roadmap)
 - [Sites to avoid](#sites-to-avoid)
 - [Useful links](#useful-links)
 - [License](#license)
@@ -182,6 +183,12 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [PyCharm Community](https://www.jetbrains.com/pycharm/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/JetBrains/intellij-community/tree/master/python) (Python)
 * [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/) (C++, C, Java, HTML/CSS, Javascript) _Windows and Mac OS only_
 * [JetBrains](https://www.jetbrains.com/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1) _As a student, you can benefit of 1 year (renewable) of the entire Jetbrains suite for free_ (HTML/CSS, Javascript, C, C++, Ruby, C#, SQL)
+
+## Developper roadmap
+
+* [Backend developper roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png)
+* [FrontEnd developper roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png)
+* [Devops roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/devops.png)
 
 ## Sites to avoid
 
