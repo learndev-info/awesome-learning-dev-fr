@@ -150,6 +150,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
+* [Tutoriel illustré pour les débutants (Interneting Is Hard)](https://www.internetingishard.com/)
 * [Tutoriel Interactif (FreeCodeCamp)](https://www.freecodecamp.org/)
 * [Cours HTML (GoalKicker)](https://books.goalkicker.com/HTML5Book/)
 * [Cours CSS (GoalKicker)](https://books.goalkicker.com/CSSBook/)
