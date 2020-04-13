@@ -13,6 +13,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
   - [C++](#c-1)
   - [C#](#c-2)
   - [Clojure](#clojure)
+  - [Common Lisp](#common-lisp)
   - [Git](#git)
   - [Go](#go)
   - [Haskell](#haskell)
@@ -65,6 +66,10 @@ On the Internet, there are many tutorials/courses to learn development, except t
 ### Clojure
 
 * [Clojure for the brave and true](https://www.braveclojure.com/foreword/)
+
+### Common Lisp
+
+* [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 
 ### Git
 
