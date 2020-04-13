@@ -13,6 +13,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [C++](#c-1)
   - [C#](#c-2)
   - [Clojure](#clojure)
+  - [Common Lisp](#common-lisp)
   - [Git](#git)
   - [Go](#go)
   - [Haskell](#haskell)
@@ -103,6 +104,16 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 * [Clojure for the brave and true](https://www.braveclojure.com/foreword/)
+
+### Common Lisp
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour ce langage.
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 
 ### Git
 
