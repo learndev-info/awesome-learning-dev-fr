@@ -182,6 +182,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 * [Cours (GoalKicker)](https://books.goalkicker.com/JavaBook/)
 * [Tutoriel/Cours (Java2S)](http://java2s.com/)
 * [Documentation (Oracle)](https://docs.oracle.com/javase)
+* [Cours Interactif (Jetbrains)](https://hyperskill.org/onboarding)
 
 ### Javascript
 
@@ -220,6 +221,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 * [Programmation avec Kotlin (Packt)](https://www.packtpub.com/application-development/programming-kotlin) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Développement web moderne avec Kotlin (LeanPub)](https://leanpub.com/modern-web-development-with-kotlin) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Guide, livre et références officiels](https://kotlinlang.org/docs/reference/)
+* [Cours Interactif (Jetbrains)](https://hyperskill.org/onboarding)
 
 ### OCaml
 
@@ -257,6 +259,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 * [Cours (GoalKicker)](https://books.goalkicker.com/PythonBook/)
 * [Documentation Python](https://docs.python.org/3/)
+* [Cours Interactif (Jetbrains)](https://hyperskill.org/onboarding)
 
 ### Ruby
 
