@@ -106,6 +106,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [Courses (GoalKicker)](https://books.goalkicker.com/JavaBook/)
 * [Tutorial/Courses (Java2S)](http://java2s.com/)
 * [Java Documentation (Oracle)](https://docs.oracle.com/javase)
+* [Interactive Courses (Jetbrains)](https://hyperskill.org/onboarding)
 
 ### Javascript
 
@@ -134,6 +135,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [Programming Kotlin (Packt)](https://www.packtpub.com/application-development/programming-kotlin) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Modern Web Development with Kotlin (LeanPub)](https://leanpub.com/modern-web-development-with-kotlin) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Guide, book and official references](https://kotlinlang.org/docs/reference/)
+* [Interactive Courses (Jetbrains)](https://hyperskill.org/onboarding)
 
 ### OCaml
 
@@ -153,6 +155,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 * [Courses (GoalKicker)](https://books.goalkicker.com/PythonBook/)
 * [Python Documentation](https://docs.python.org/3/)
+* [Interactive Courses (Jetbrains)](https://hyperskill.org/onboarding)
 
 ### Ruby
 
