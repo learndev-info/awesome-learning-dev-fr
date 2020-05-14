@@ -129,11 +129,13 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
-Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage.
+* [Le Go par l'exemple](http://le-go-par-l-exemple.keiruaprod.fr)
+* [Un tour de Go](https://go-tour-fr.appspot.com/welcome/1)
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 * [Basics (Tour Golang)](https://tour.golang.org/welcome/1)
+* [Go by Example](https://gobyexample.com)
 * [To go further (Doc Golang)](https://golang.org/doc/effective_go.html)
 * [Courses (The Go Programming Language de Alan A. A. Donovan et Brian W. Kernighan)](http://www.gopl.io/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 
