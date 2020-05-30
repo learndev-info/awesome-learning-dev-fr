@@ -140,7 +140,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### Lua
 
-* [programming in lua (first edition)](https://www.lua.org/pil/contents.html)
+* [Programming in lua (first edition)](https://www.lua.org/pil/contents.html)
 
 ### OCaml
 

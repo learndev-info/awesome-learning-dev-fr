@@ -231,7 +231,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage.
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
-* [programming in lua (first edition)](https://www.lua.org/pil/contents.html)
+* [Programming in lua (first edition)](https://www.lua.org/pil/contents.html)
 
 ### OCaml
 
