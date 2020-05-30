@@ -21,6 +21,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
   - [Java](#java)
   - [Javascript](#javascript)
   - [Kotlin](#kotlin)
+  - [Lua](#lua)
   - [OCaml](#ocaml)
   - [PHP](#php)
   - [Python](#python)
@@ -136,6 +137,10 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [Modern Web Development with Kotlin (LeanPub)](https://leanpub.com/modern-web-development-with-kotlin) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Guide, book and official references](https://kotlinlang.org/docs/reference/)
 * [Interactive Courses (Jetbrains)](https://hyperskill.org/onboarding)
+
+### Lua
+
+* [programming in lua (first edition)](https://www.lua.org/pil/contents.html)
 
 ### OCaml
 
