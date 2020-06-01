@@ -26,6 +26,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [Scala](#scala)
   - [SQL](#sql)
 - [Text editors](#text-editors)
 - [The IDEs](#the-ides)
@@ -167,6 +168,16 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [Tutorial/Courses](https://doc.rust-lang.org/book/)
 * [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
 * [Rust Documentation](https://doc.rust-lang.org/std/index.html)
+
+### Scala
+
+* [Scala Documentation](https://docs.scala-lang.org/)
+* [Tutorial/Introduction](https://docs.scala-lang.org/overviews/scala-book/introduction.html)
+* [Course: Functional Programming Principles in Scala (EPFL, Coursera)](https://www.coursera.org/learn/progfun1?specialization=scala) ![Video](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
+* [Course: Programming Reactive Systems (EPFL, edX)](https://www.edx.org/course/programming-reactive-systems) ![Video](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
+* [Course: Twitter Scala School](http://twitter.github.io/scala_school/)
+* [Scala libraries exercises](https://www.scala-exercises.org/)
+* [Recommended up-to-date books](https://docs.scala-lang.org/books.html) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 
 ### SQL
 
