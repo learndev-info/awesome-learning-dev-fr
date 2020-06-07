@@ -129,7 +129,7 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
-Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage.
+* [Bases (traduction non officielle de "A Tour of Go")](https://go-tour-fr.appspot.com/welcome/1)
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
