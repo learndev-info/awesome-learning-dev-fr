@@ -27,6 +27,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [Scala](#scala)
   - [Sécurité](#sécurité)
   - [SQL](#sql)
 - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
@@ -294,6 +295,22 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 * [Tutoriel/Cours](https://doc.rust-lang.org/book/)
 * [Rust par l'exemple](https://doc.rust-lang.org/stable/rust-by-example/)
 * [Documentation](https://doc.rust-lang.org/std/index.html)
+
+### Scala
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+* [Livre traduit : Scala par l'exemple](https://java.developpez.com/tutoriels/scala/scala-par-exemple/) *Ne vous laissez pas décourager par les deux premiers exemples. Tout est expliqué par la suite !*
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+* [Documentation Officielle](https://docs.scala-lang.org/)
+* [Tutoriel/Introduction](https://docs.scala-lang.org/overviews/scala-book/introduction.html)
+* [Cours : Principes de la programmation fonctionnelle dans Scala (EPFL, Coursera)](https://www.coursera.org/learn/progfun1?specialization=scala) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
+* [Cours : Programmation de Systèmes Réactifs (EPFL, edX)](https://www.edx.org/course/programming-reactive-systems) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
+* [Cours : "école Scala" par Twitter](http://twitter.github.io/scala_school/)
+* [Exercices sur des bibiothèques Scala](https://www.scala-exercises.org/)
+* [Livres recommendés et à jour](https://docs.scala-lang.org/books.html) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 
 ### Sécurité
 
