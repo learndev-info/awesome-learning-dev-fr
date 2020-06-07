@@ -21,6 +21,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [Java](#java)
   - [Javascript](#javascript)
   - [Kotlin](#kotlin)
+  - [Lua](#lua)
   - [OCaml](#ocaml)
   - [PHP](#php)
   - [Python](#python)
@@ -222,6 +223,15 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 * [Développement web moderne avec Kotlin (LeanPub)](https://leanpub.com/modern-web-development-with-kotlin) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Guide, livre et références officiels](https://kotlinlang.org/docs/reference/)
 * [Cours Interactif (Jetbrains)](https://hyperskill.org/onboarding)
+
+### Lua
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage.
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+* [Programming in lua (first edition)](https://www.lua.org/pil/contents.html)
 
 ### OCaml
 
