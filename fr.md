@@ -47,7 +47,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
-* [Cours (Introduction to Algorithms by Cormen sur Amazon)](https://www.amazon.fr/Introduction-Algorithms-3e-Thomas-Cormen/dp/0262033844/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [Cours (Introduction to Algorithms by Cormen sur Amazon)](https://www.amazon.fr/Introduction-Algorithms-3e-Thomas-Cormen/dp/0262033844/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant")
 * [Tutoriel (GoalKicker)](https://books.goalkicker.com/AlgorithmsBook/)
 
 ### Bash
@@ -80,7 +80,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 * [Cours (GoalKicker)](https://books.goalkicker.com/CPlusPlusBook/)
-* [Cours (C++ Primer de Lippman sur Amazon)](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [Cours (C++ Primer de Lippman sur Amazon)](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant")
 * [Documentation C++ (Cpp Reference)](https://en.cppreference.com/w/)
 
 ### C#
@@ -137,7 +137,7 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 
 * [Basics (Tour Golang)](https://tour.golang.org/welcome/1)
 * [To go further (Doc Golang)](https://golang.org/doc/effective_go.html)
-* [Courses (The Go Programming Language de Alan A. A. Donovan et Brian W. Kernighan)](http://www.gopl.io/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [Courses (The Go Programming Language de Alan A. A. Donovan et Brian W. Kernighan)](http://www.gopl.io/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant")
 
 ### Haskell
 
@@ -148,9 +148,9 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 * [Tutoriel interactif (Try Haskell)](https://www.tryhaskell.org/)
-* [Livre (Haskell Programming de Christopher Allen et Julie Moronuki)](http://haskellbook.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [Livre (Haskell Programming de Christopher Allen et Julie Moronuki)](http://haskellbook.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant")
 * [Cours (University of Pennsylvania)](https://www.seas.upenn.edu/~cis194/fall16/index.html)
-* [Livre pour des applications concrètes (Real World Haskell de Bryan O'Sullivan, Don Stewart et John Goerzen)](http://book.realworldhaskell.org/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [Livre pour des applications concrètes (Real World Haskell de Bryan O'Sullivan, Don Stewart et John Goerzen)](http://book.realworldhaskell.org/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant")
 * [Documentation (Wiki Haskell)](https://wiki.haskell.org/Haskell)
 
 ### HTML/CSS
@@ -158,8 +158,8 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 * [Guide complet (MDN)](https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web)
-* [Formation HTML (Grafikart)](https://www.grafikart.fr/formations/html) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
-* [Formation CSS (Grafikart)](https://www.grafikart.fr/formations/css) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
+* [Formation HTML (Grafikart)](https://www.grafikart.fr/formations/html) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
+* [Formation CSS (Grafikart)](https://www.grafikart.fr/formations/css) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
@@ -177,7 +177,7 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 
 * [Tutoriel/Cours (JM Doudoux)](https://www.jmdoudoux.fr/java/dej/indexavecframes.htm)
 * [Formation (KOOR)](http://koor.fr/Java/Tutorial/Index.wp)
-* [Formation (KOOR Youtube)](https://www.youtube.com/watch?v=pXaaacSkPqc&list=PLBNheBxhHLQxfJhoz193-dRwvc2rl8AOW) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
+* [Formation (KOOR Youtube)](https://www.youtube.com/watch?v=pXaaacSkPqc&list=PLBNheBxhHLQxfJhoz193-dRwvc2rl8AOW) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
@@ -196,19 +196,19 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 * [Tutoriel/Cours (Eloquent JavaScript)](https://eloquentjavascript.net/) ou [Autre Tutoriel/Cours (JavaScript.info)](https://javascript.info/)
-* [Tutoriel Interactif (Learn JavaScript)](https://learnjavascript.online/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1) ou [Un autre (FreeCodeCamp)](https://www.freecodecamp.org/)
+* [Tutoriel Interactif (Learn JavaScript)](https://learnjavascript.online/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant") ou [Un autre (FreeCodeCamp)](https://www.freecodecamp.org/)
 * [Cours JavaScript (GoalKicker)](https://books.goalkicker.com/JavaScriptBook/)
 * [Cours NodeJS (GoalKicker)](https://books.goalkicker.com/NodeJSBook/)
 * [Pour aller plus loin (You don't know JS)](https://github.com/getify/You-Dont-Know-JS)
 * [Documentation JS (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Documentation NodeJS](https://nodejs.org/api/)
 * [Complément sur la sécurité (OWASP)](https://www.owasp.org/index.php/Main_Page)
-* [(FrontendMaster) JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
-* [(FrontendMaster) JavaScript: The New Hard Parts](https://frontendmasters.com/courses/javascript-new-hard-parts/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
-* [(FrontendMaster) JavaScript: The Hard Parts of Object Oriented JavaScript](https://frontendmasters.com/courses/object-oriented-js/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
-* [(FrontendMaster) Hard Parts: Functional JS Foundations](https://frontendmasters.com/courses/functional-js-fundamentals/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
-* [(FrontendMaster) The Hard Parts of Servers & Node.js](https://frontendmasters.com/courses/servers-node-js/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
-* [(FrontendMaster) JavaScript Performance](https://frontendmasters.com/courses/web-performance/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [(FrontendMaster) JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant")
+* [(FrontendMaster) JavaScript: The New Hard Parts](https://frontendmasters.com/courses/javascript-new-hard-parts/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant")
+* [(FrontendMaster) JavaScript: The Hard Parts of Object Oriented JavaScript](https://frontendmasters.com/courses/object-oriented-js/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant")
+* [(FrontendMaster) Hard Parts: Functional JS Foundations](https://frontendmasters.com/courses/functional-js-fundamentals/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant")
+* [(FrontendMaster) The Hard Parts of Servers & Node.js](https://frontendmasters.com/courses/servers-node-js/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant")
+* [(FrontendMaster) JavaScript Performance](https://frontendmasters.com/courses/web-performance/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant")
 
 ### Kotlin
 
@@ -219,10 +219,10 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 * [Cours (GoalKicker)](https://books.goalkicker.com/KotlinBook/)
-* [Kotlin en action (Manning Publication)](https://www.manning.com/books/kotlin-in-action) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [Kotlin en action (Manning Publication)](https://www.manning.com/books/kotlin-in-action) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant")
 * [Fondamentale de Kotlin](http://www.fundamental-kotlin.com/)
-* [Programmation avec Kotlin (Packt)](https://www.packtpub.com/application-development/programming-kotlin) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
-* [Développement web moderne avec Kotlin (LeanPub)](https://leanpub.com/modern-web-development-with-kotlin) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [Programmation avec Kotlin (Packt)](https://www.packtpub.com/application-development/programming-kotlin) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant")
+* [Développement web moderne avec Kotlin (LeanPub)](https://leanpub.com/modern-web-development-with-kotlin) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant")
 * [Guide, livre et références officiels](https://kotlinlang.org/docs/reference/)
 * [Cours Interactif (Jetbrains)](https://hyperskill.org/onboarding)
 
@@ -277,8 +277,8 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
-* [Formation Ruby (Grafikart)](https://www.grafikart.fr/formations/ruby) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
-* [Formation Ruby on Rails (Grafikart)](https://www.grafikart.fr/formations/ruby-on-rails) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
+* [Formation Ruby (Grafikart)](https://www.grafikart.fr/formations/ruby) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
+* [Formation Ruby on Rails (Grafikart)](https://www.grafikart.fr/formations/ruby-on-rails) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
@@ -307,11 +307,11 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 * [Documentation Officielle](https://docs.scala-lang.org/)
 * [Tutoriel/Introduction](https://docs.scala-lang.org/overviews/scala-book/introduction.html)
-* [Cours : Principes de la programmation fonctionnelle dans Scala (EPFL, Coursera)](https://www.coursera.org/learn/progfun1?specialization=scala) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
-* [Cours : Programmation de Systèmes Réactifs (EPFL, edX)](https://www.edx.org/course/programming-reactive-systems) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1)
+* [Cours : Principes de la programmation fonctionnelle dans Scala (EPFL, Coursera)](https://www.coursera.org/learn/progfun1?specialization=scala) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
+* [Cours : Programmation de Systèmes Réactifs (EPFL, edX)](https://www.edx.org/course/programming-reactive-systems) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
 * [Cours : "école Scala" par Twitter](http://twitter.github.io/scala_school/)
 * [Exercices sur des bibiothèques Scala](https://www.scala-exercises.org/)
-* [Livres recommendés et à jour](https://docs.scala-lang.org/books.html) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
+* [Livres recommendés et à jour](https://docs.scala-lang.org/books.html) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant")
 
 ### Sécurité
 
@@ -336,19 +336,19 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 ## Éditeurs génériques
 
-* [Visual Studio Code](https://code.visualstudio.com/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/Microsoft/vscode)
-* [Sublime Text](https://www.sublimetext.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1) _Gratuit pour un usage personnel_
-* [Atom](https://atom.io/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/atom/atom) _Attention! Atom est relativement lent comparé à VS Code ou Sublime Text_
-* [Brackets](http://brackets.io/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/adobe/brackets) _Orienté développement Web (front)_
+* [Visual Studio Code](https://code.visualstudio.com/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1 "Open source")](https://github.com/Microsoft/vscode)
+* [Sublime Text](https://www.sublimetext.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant") _Gratuit pour un usage personnel_
+* [Atom](https://atom.io/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1 "Open source")](https://github.com/atom/atom) _Attention! Atom est relativement lent comparé à VS Code ou Sublime Text_
+* [Brackets](http://brackets.io/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1 "Open source")](https://github.com/adobe/brackets) _Orienté développement Web (front)_
 
 ## Les IDE
 
-* [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/JetBrains/intellij-community) (Java, Kotlin, Scala, Rust)
-* [Eclipse](https://www.eclipse.org/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/apache/incubator-netbeans)
-* [NetBeans](https://netbeans.org/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/apache/incubator-netbeans)
-* [PyCharm Community](https://www.jetbrains.com/pycharm/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1)](https://github.com/JetBrains/intellij-community/tree/master/python) (Python)
+* [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1 "Open source")](https://github.com/JetBrains/intellij-community) (Java, Kotlin, Scala, Rust)
+* [Eclipse](https://www.eclipse.org/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1 "Open source")](https://github.com/apache/incubator-netbeans)
+* [NetBeans](https://netbeans.org/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1 "Open source")](https://github.com/apache/incubator-netbeans)
+* [PyCharm Community](https://www.jetbrains.com/pycharm/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1 "Open source")](https://github.com/JetBrains/intellij-community/tree/master/python) (Python)
 * [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/) (C++, C, Java, HTML/CSS, Javascript) _Windows et Mac OS seulement_
-* [JetBrains](https://www.jetbrains.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1) _Si vous êtes lycéen/étudiant vous pouvez bénéficier de tous les outils JetBrains de façon totalement gratuite pendant 1 an (renouvelable)_ (HTML/CSS, Javascript, C, C++, Ruby, C#, SQL)
+* [JetBrains](https://www.jetbrains.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant") _Si vous êtes lycéen/étudiant vous pouvez bénéficier de tous les outils JetBrains de façon totalement gratuite pendant 1 an (renouvelable)_ (HTML/CSS, Javascript, C, C++, Ruby, C#, SQL)
 
 ## Devenir développeur
 
