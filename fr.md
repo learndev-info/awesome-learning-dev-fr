@@ -191,6 +191,7 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 * [Guide complet (MDN)](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps)
+* [Formation Node.js (Louistiti)](https://www.youtube.com/playlist?list=PL4NbGBfr4aJk5ATFWA-8UkvL8LbHqpS-v) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo") ![En cours](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/wip.png?v=1.0.0 "En cours")
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
