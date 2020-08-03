@@ -348,7 +348,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 * [NetBeans](https://netbeans.org/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1 "Open source")](https://github.com/apache/incubator-netbeans)
 * [PyCharm Community](https://www.jetbrains.com/pycharm/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1 "Open source")](https://github.com/JetBrains/intellij-community/tree/master/python) (Python)
 * [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/) (C++, C, Java, HTML/CSS, Javascript) _Windows et Mac OS seulement_
-* [JetBrains](https://www.jetbrains.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant") _Si vous êtes lycéen/étudiant vous pouvez bénéficier de tous les outils JetBrains de façon totalement gratuite pendant 1 an (renouvelable)_ (HTML/CSS, Javascript, C, C++, Ruby, C#, SQL)
+* [JetBrains](https://www.jetbrains.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant") _Si vous êtes lycéen/étudiant vous pouvez bénéficier de tous les outils JetBrains de façon totalement gratuite via le [Github Student Pack](https://education.github.com/pack) ou via le [site officiel](https://www.jetbrains.com/fr-fr/community/education/#students) pendant 1 an (renouvelable)_ (HTML/CSS, Javascript, C, C++, Ruby, C#, SQL, ...)
 
 ## Devenir développeur
 
