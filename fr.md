@@ -289,7 +289,8 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
-[Tutoriel/Cours](https://blog.guillaume-gomez.fr/Rust/)
+* [Tutoriel/Cours](https://jimskapt.github.io/rust-book-fr/)
+* [Tutoriel/Cours](https://blog.guillaume-gomez.fr/Rust/)
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
