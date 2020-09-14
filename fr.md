@@ -355,6 +355,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 * [Devenir développeur backend](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png)
 * [Devenir développeur frontend](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png)
+* [Devenir développeur frontend (MDN)](https://developer.mozilla.org/fr/docs/Apprendre/Front-end_web_developer)
 * [Devenir devops](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/devops.png)
 
 ## Les sites à éviter
