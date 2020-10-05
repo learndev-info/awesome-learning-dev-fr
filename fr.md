@@ -176,6 +176,7 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 * [Tutoriel/Cours (JM Doudoux)](https://www.jmdoudoux.fr/java/dej/indexavecframes.htm)
+* [Cours (Alexandre Mesle)](https://enseignement.alexandre-mesle.com/java/) (contient également bon nombre d'exercices)
 * [Formation (KOOR)](http://koor.fr/Java/Tutorial/Index.wp)
 * [Formation (KOOR Youtube)](https://www.youtube.com/watch?v=pXaaacSkPqc&list=PLBNheBxhHLQxfJhoz193-dRwvc2rl8AOW) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
 
