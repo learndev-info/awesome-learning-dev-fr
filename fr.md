@@ -1,4 +1,4 @@
-# Awesome Learning Dev ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+﻿# Awesome Learning Dev ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 Not french? Go to the [EN Edition](/en)
 
@@ -147,6 +147,7 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
+- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 - [Tutoriel interactif (Try Haskell)](https://www.tryhaskell.org/)
 - [Livre (Haskell Programming de Christopher Allen et Julie Moronuki)](http://haskellbook.com/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Payant")
 - [Cours (University of Pennsylvania)](https://www.seas.upenn.edu/~cis194/fall16/index.html)
