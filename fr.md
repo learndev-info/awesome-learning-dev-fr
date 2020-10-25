@@ -328,6 +328,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 - [Tutoriel/Cours (SQL.sh)](https://sql.sh/)
+- [Modélisation BDD(Merise)](https://cyril-gruau.developpez.com/uml/tutoriel/ConceptionBD/)
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
