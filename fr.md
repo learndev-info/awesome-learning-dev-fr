@@ -370,7 +370,7 @@ Ces sites donnent de nombreuses informations fausses et/ou obsolètes et ne devr
 - La chaîne youtube de PrimFx
 
 ## Sources à compléter
-- La chaîne youtube de Graven est à compléter avec d'autres cours à côté
+- La chaîne youtube de `Graven - Développement` ne fait pas office de cours complet mais sert seulement à introduire des notions. Elle doit donc être accompagnée d'un apprentissage plus poussé.
 
 ## Liens utiles
 
