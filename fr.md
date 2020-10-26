@@ -369,6 +369,9 @@ Ces sites donnent de nombreuses informations fausses et/ou obsolètes et ne devr
 - W3Resource
 - La chaîne youtube de PrimFx
 
+## Sources à compléter
+- La chaîne youtube de Graven est à compléter avec d'autres cours à côté
+
 ## Liens utiles
 
 Ces sites sont une bonne source d'information pour de nombreux langages de programmation.
