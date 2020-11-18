@@ -188,6 +188,7 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 - [Tutoriel/Cours (Java2S)](http://java2s.com/)
 - [Documentation (Oracle)](https://docs.oracle.com/javase)
 - [Cours Interactif (Jetbrains)](https://hyperskill.org/onboarding)
+- [Truc astuce - baeldung](https://www.baeldung.com/category/java/)
 
 ### Javascript
 
