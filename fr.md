@@ -30,6 +30,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [Scala](#scala)
   - [Sécurité](#sécurité)
   - [SQL](#sql)
+  - [Typescript](#typescript)
 - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
 - [Les IDE](#les-ide)
 - [Devenir développeur](#devenir-d%C3%A9veloppeur)
@@ -339,6 +340,12 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 - [Documentation PostgreSQL](https://www.postgresql.org/docs/10/static/index.html) _Base de données recommandée_
 - [Documentation MySQL/MariaDB](https://dev.mysql.com/doc/refman/8.0/en/)
 - [Documentation SQLite](https://sqlite.org/docs.html)
+
+### Typescript
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+- [(FrontendMaster) Principes fondamentaux de TypeScript 3, v2](https://frontendmasters.com/courses/typescript-v2/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Paid")
 
 ## Éditeurs génériques
 
