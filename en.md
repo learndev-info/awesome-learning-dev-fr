@@ -29,6 +29,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
   - [Rust](#rust)
   - [Scala](#scala)
   - [SQL](#sql)
+  - [Typescript](#typescript)
 - [Text editors](#text-editors)
 - [The IDEs](#the-ides)
 - [Developper roadmap](#developper-roadmap)
@@ -192,6 +193,9 @@ On the Internet, there are many tutorials/courses to learn development, except t
 * [PostgreSQL Documentation](https://www.postgresql.org/docs/10/static/index.html) *Recommended database*
 * [MySQL/MariaDB Documentation](https://dev.mysql.com/doc/refman/8.0/en/)
 * [SQLite Documentation](https://sqlite.org/docs.html)
+
+### Typescript
+* [(FrontendMaster) TypeScript 3 Fundamentals, v2](https://frontendmasters.com/courses/typescript-v2/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Paid")
 
 ## Text editors
 
