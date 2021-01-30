@@ -47,6 +47,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 ### Bash
 
 - [Bash HOWTO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-1.html)
+- [Bash wiki](https://wiki.bash-hackers.org/)
 
 ### C
 

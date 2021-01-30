@@ -60,6 +60,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 - [Bash HOWTO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-1.html)
+- [Bash wiki](https://wiki.bash-hackers.org/)
 
 ### C
 
