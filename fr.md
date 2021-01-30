@@ -340,6 +340,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 - [Documentation PostgreSQL](https://www.postgresql.org/docs/10/static/index.html) _Base de données recommandée_
 - [Documentation MySQL/MariaDB](https://dev.mysql.com/doc/refman/8.0/en/)
 - [Documentation SQLite](https://sqlite.org/docs.html)
+- [Guide des index (Use the index luke)](https://use-the-index-luke.com/)
 
 ### Typescript
 
