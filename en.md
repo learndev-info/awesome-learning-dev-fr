@@ -69,6 +69,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### Clojure
 
+- [Clojure beginner resources (by Yogthos)](https://gist.github.com/yogthos/be323be0361c589570a6da4ccc85f58f)
 - [Clojure for the brave and true](https://www.braveclojure.com/foreword/)
 
 ### Common Lisp

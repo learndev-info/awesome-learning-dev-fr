@@ -107,6 +107,7 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
+- [Ressources pour débutants clojure (par Yogthos)](https://gist.github.com/yogthos/be323be0361c589570a6da4ccc85f58f)
 - [Clojure for the brave and true](https://www.braveclojure.com/foreword/)
 
 ### Common Lisp
