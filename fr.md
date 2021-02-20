@@ -195,6 +195,8 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 - [Cours (Alexandre Mesle)](https://enseignement.alexandre-mesle.com/java/) (contient également bon nombre d'exercices)
 - [Formation (KOOR)](http://koor.fr/Java/Tutorial/Index.wp)
 - [Formation (KOOR Youtube)](https://www.youtube.com/watch?v=pXaaacSkPqc&list=PLBNheBxhHLQxfJhoz193-dRwvc2rl8AOW) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
+- [MOOC de l'EPFL (initiation)](https://www.coursera.org/learn/initiation-programmation-java)
+- [MOOC de l'EPFL (bases de la POO)](https://www.coursera.org/learn/programmation-orientee-objet-java)
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
