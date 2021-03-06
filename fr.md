@@ -393,7 +393,6 @@ Ces sites donnent de nombreuses informations fausses et/ou obsolètes et ne devr
 - W3Schools
 - W3Resource
 - La chaîne youtube de PrimFX
-- La chaîne youtube de Graven - Développement
 
 ## Liens utiles
 
