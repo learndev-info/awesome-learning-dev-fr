@@ -104,7 +104,6 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 - [Illustrated tutorial for total beginner (Interneting Is Hard)](https://www.internetingishard.com/)
 - [Interactive Tutorial (FreeCodeCamp)](https://www.freecodecamp.org/)
-- [Complete Guide (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 - [HTML Courses (GoalKicker)](https://books.goalkicker.com/HTML5Book/)
 - [CSS Courses (GoalKicker)](https://books.goalkicker.com/CSSBook/)
 - [HTML & CSS Tutorial/Courses (Marksheet)](https://marksheet.io/)
@@ -122,7 +121,6 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 - [Tutorial/Courses (Eloquent JavaScript)](https://eloquentjavascript.net/) or [Other Tutorial/Courses (JavaScript.info)](https://javascript.info/)
 - [Interactive Tutorial (LearnJavaScript)](https://learnjavascript.online/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Paid") or [Another one (FreeCodeCamp)](https://www.freecodecamp.org/)
-- [Complete Guide (MDN)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 - [JavaScript Courses (GoalKicker)](https://books.goalkicker.com/JavaScriptBook/)
 - [NodeJS Courses (GoalKicker)](https://books.goalkicker.com/NodeJSBook/)
 - [To go further (You Don't Know JS)](https://github.com/getify/You-Dont-Know-JS)

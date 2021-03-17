@@ -172,7 +172,7 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
-- [Guide complet (MDN)](https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web)
+- [Guide Complet (Pierre Giraud)](https://www.pierre-giraud.com/html-css-apprendre-coder-cours/)
 - [Formation HTML (Grafikart)](https://www.grafikart.fr/formations/html) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
 - [Formation CSS (Grafikart)](https://www.grafikart.fr/formations/css) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
 - [Formation SASS (Grafikart)](https://www.grafikart.fr/formations/sass-preprocesseur) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
@@ -209,7 +209,7 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
-- [Guide complet (MDN)](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps)
+- [Guide complet (Pierre Giraud)](https://www.pierre-giraud.com/javascript-apprendre-coder-cours/)
 - [Formation Node.js (Louistiti)](https://www.youtube.com/playlist?list=PL4NbGBfr4aJk5ATFWA-8UkvL8LbHqpS-v) ![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo") ![En cours](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/wip.png?v=1.0.0 "En cours")
 - ["Devenir un développeur Node.js" (Thomas Gentilhomme)](https://docs.google.com/document/d/1JHgmEFkc8Py4XSuCB8_DQ5FFEJoogyeninFK6ucTd4o/edit?usp=sharing)
 
