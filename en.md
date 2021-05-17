@@ -150,7 +150,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### OCaml
 
-- [Courses (Real World OCaml)](https://v1.realworldocaml.org/v1/en/html/index.html)
+- [Courses (Real World OCaml)](https://realworldocaml.org)
 
 ### PHP
 

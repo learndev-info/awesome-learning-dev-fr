@@ -265,7 +265,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
-- [Cours (Real World Ocaml)](https://v1.realworldocaml.org/v1/en/html/index.html)
+- [Cours (Real World Ocaml)](https://realworldocaml.org)
 
 ### PHP
 
