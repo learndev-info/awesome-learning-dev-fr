@@ -25,6 +25,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
   - [Lua](#lua)
   - [OCaml](#ocaml)
   - [PHP](#php)
+  - [PowerShell](#powershell)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -159,6 +160,10 @@ On the Internet, there are many tutorials/courses to learn development, except t
 - [Security Supplement (OWASP)](https://www.owasp.org/index.php/Main_Page)
 - [Security Complement, PHP oriented (Paragon Initiative)](https://paragonie.com/)
 - [Security Checklist (Sqreen)](https://www.sqreen.io/checklists/php-security-checklist)
+
+### PowerShell
+
+- [Microsoft Documentation](https://docs.microsoft.com/fr-fr/powershell/)
 
 ### Python
 

@@ -287,6 +287,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 - [Tutoriel/Cours (IT Connect)](https://www.it-connect.fr/cours-tutoriels/administration-systemes/scripting/powershell/)
+- [Tutoriel/Cours (Microsoft Docs)](https://docs.microsoft.com/fr-fr/powershell/)
 
 ### Python
 
