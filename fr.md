@@ -99,6 +99,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 - [ASP.NET (Doc Microsoft)](https://docs.microsoft.com/en-us/aspnet/)
 - [Dot.Blog Collection (E-naxos)](http://www.e-naxos.com/AllDotBlog.html)
 - [LINQ (Jon Skeet's coding blog)](https://codeblog.jonskeet.uk/category/edulinq/)
+- [Learn C# with CSharpFritz (dotNET - videos)](https://www.youtube.com/watch?v=pyN7JTQM7sU&list=PLdo4fOcmZ0oXv32dOd36UydQYLejKR61R)
 
 ### Clojure
 

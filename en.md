@@ -67,6 +67,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 - [ASP.NET (Microsoft Doc)](https://docs.microsoft.com/en-us/aspnet/)
 - [Dot.Blog Collection (E-Naxos)](http://www.e-naxos.com/AllDotBlog.html)
 - [LINQ (Jon Skeet's coding blog)](https://codeblog.jonskeet.uk/category/edulinq/)
+- [Learn C# with CSharpFritz (dotNET - videos)](https://www.youtube.com/watch?v=pyN7JTQM7sU&list=PLdo4fOcmZ0oXv32dOd36UydQYLejKR61R)
 
 ### Clojure
 
