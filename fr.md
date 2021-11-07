@@ -361,6 +361,10 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 ### Typescript
 
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+- [Formation TypeScript (Grafikart)](https://grafikart.fr/formations/typescript)![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
+
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 - [(FrontendMaster) Principes fondamentaux de TypeScript 3, v2](https://frontendmasters.com/courses/typescript-v2/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Paid")
