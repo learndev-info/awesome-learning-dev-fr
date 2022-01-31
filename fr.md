@@ -387,9 +387,9 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 ## Devenir développeur
 
-- [Devenir développeur backend](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png)
-- [Devenir développeur frontend](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png)
-- [Devenir devops](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/devops.png)
+- [Devenir développeur backend](https://roadmap.sh/backend)
+- [Devenir développeur frontend](https://roadmap.sh/frontend)
+- [Devenir devops](https://roadmap.sh/devops)
 
 ## Les sites à éviter
 

@@ -221,9 +221,9 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ## Developper roadmap
 
-- [Backend developper roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png)
-- [FrontEnd developper roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png)
-- [Devops roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/devops.png)
+- [Backend developper roadmap](https://roadmap.sh/backend)
+- [FrontEnd developper roadmap](https://roadmap.sh/frontend)
+- [Devops roadmap](https://roadmap.sh/devops)
 
 ## Sites to avoid
 
