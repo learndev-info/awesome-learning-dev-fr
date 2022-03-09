@@ -1,5 +1,2 @@
 theme: jekyll-theme-primer
 title: Awesome Learning Dev
-
-gems:
-  - jekyll-redirect-from
