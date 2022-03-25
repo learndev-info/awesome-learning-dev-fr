@@ -79,6 +79,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 - [Tutoriel/Cours (Zeste de Savoir)](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/)
+- [Tutoriel/Cours (de Christian Casteyde)](http://casteyde.christian.free.fr/cpp/cours/online/book1.html)
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
