@@ -379,8 +379,8 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
-- [Nandland website](https://www.nandland.com/)
-- [Nandland Youtube Channel](https://www.youtube.com/watch?v=CfmlsDW3Z4c)![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
+- [Nandland site web (cours, codes, exemples, exercices)](https://www.nandland.com/)
+- [Nandland chaîne Youtube](https://www.youtube.com/watch?v=CfmlsDW3Z4c)![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
 
 ## Éditeurs génériques
 
