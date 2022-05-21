@@ -206,11 +206,6 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 ### VHDL
 
-#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
-
-- [VHDL Training (Eric Perronin)](https://www.youtube.com/watch?v=FKe6a3MiXE0&t=1s)![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
-- [VHDL Course](http://lslwww.epfl.ch/pages/teaching/cours_lsl/sl_info/19.VHDL.pdf)
-
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 - [Nandland website (training, examples, exercises)](https://www.nandland.com/)
