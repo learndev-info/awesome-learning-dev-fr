@@ -32,6 +32,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [Sécurité](#sécurité)
   - [SQL](#sql)
   - [Typescript](#typescript)
+  - [VHDL](#vhdl)
 - [Éditeurs génériques](#%C3%A9diteurs-g%C3%A9n%C3%A9riques)
 - [Les IDE](#les-ide)
 - [Devenir développeur](#devenir-d%C3%A9veloppeur)
@@ -368,6 +369,18 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 - [(FrontendMaster) Principes fondamentaux de TypeScript 3, v2](https://frontendmasters.com/courses/typescript-v2/) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Paid")
+
+### VHDL
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+- [Formation VHDL (Eric Perronin)](https://www.youtube.com/watch?v=FKe6a3MiXE0&t=1s)![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
+- [Cours VHDL](http://lslwww.epfl.ch/pages/teaching/cours_lsl/sl_info/19.VHDL.pdf)
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+- [Nandland site web (cours, codes, exemples, exercices)](https://www.nandland.com/)
+- [Nandland chaîne Youtube](https://www.youtube.com/watch?v=CfmlsDW3Z4c)![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
 
 ## Éditeurs génériques
 
