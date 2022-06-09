@@ -4,6 +4,6 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 * [Go to English](https://www.learndev.info/en)
 
-Sur Internet, il y a beaucoup de tutoriels et de cours pour apprendre le développement, seulement la plupart d'entre eux sont mauvais parce qu'ils vous enseignent des mauvaises pratiques ou des choses obsolètes. C'est pourquoi cette liste recensant des sources fiables pour apprendre le développement a été crée.
+Sur Internet, il y a beaucoup de tutoriels et de cours pour apprendre le développement, seulement la plupart d'entre eux sont mauvais parce qu'ils vous enseignent des mauvaises pratiques ou des choses obsolètes. C'est pourquoi cette liste recensant des sources fiables pour apprendre le développement a été créée.
 
 * [Go to French](https://www.learndev.info/fr)
