@@ -273,6 +273,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 - [Tutoriel (Pierre Giraud)](https://www.pierre-giraud.com/cours/php-mysql-apprendre-coder-cours/) ou [Autre tutoriel (PHP The Right Way)](https://eilgin.github.io/php-the-right-way/)
+- [Tutoriels et article au sujet de PHP et Laravel](https://larabiz.fr) 
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
