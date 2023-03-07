@@ -215,7 +215,6 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 - [Visual Studio Code](https://code.visualstudio.com/) ![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1 "Open source")
 - [Sublime Text](https://www.sublimetext.com/) ![Paid](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1 "Paid")
-- [Atom](https://atom.io/) ![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1 "Open source") _Warning ! Atom is pretty slow compared to VS Code or Sublime Text_
 - [Brackets](http://brackets.io/) [![FOSS](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/opensource.png?v=1.0.1 "Open source")](https://github.com/adobe/brackets) _Front-end web development oriented_
 
 ## The IDEs
