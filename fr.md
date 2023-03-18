@@ -273,7 +273,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 - [Tutoriel (Pierre Giraud)](https://www.pierre-giraud.com/cours/php-mysql-apprendre-coder-cours/) ou [Autre tutoriel (PHP The Right Way)](https://eilgin.github.io/php-the-right-way/)
-- [Tutoriels et article au sujet de PHP et Laravel](https://larabiz.fr) 
+- [Tutoriels et article au sujet de PHP et Laravel](https://larabiz.fr)
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
@@ -376,7 +376,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 - [Formation VHDL (Eric Perronin)](https://www.youtube.com/watch?v=FKe6a3MiXE0&t=1s)![Vidéo](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/videocamera.png?v=1.0.1 "Vidéo")
-- [Cours VHDL](http://lslwww.epfl.ch/pages/teaching/cours_lsl/sl_info/19.VHDL.pdf)
+- [Cours VHDL](https://web.archive.org/web/20221006194810/http://lslwww.epfl.ch/pages/teaching/cours_lsl/sl_info/19.VHDL.pdf)
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
