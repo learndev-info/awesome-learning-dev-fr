@@ -81,6 +81,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 ### Elixir
 
 - [Getting started](https://elixir-lang.org/getting-started/introduction.html)
+- [Elixir School](https://elixirschool.com/en)
 
 ### Git
 
