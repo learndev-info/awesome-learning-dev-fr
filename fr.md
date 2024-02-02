@@ -126,7 +126,9 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
-Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour ce langage.
+- [Traduction française du cours d'Elixir School](https://elixirschool.com/fr)
+
+Malheureusement, le cours n'est pas complètement traduit.
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
