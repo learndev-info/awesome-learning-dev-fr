@@ -25,6 +25,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [Lua](#lua)
   - [OCaml](#ocaml)
   - [PHP](#php)
+  - [PowerShell](#powershell)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -282,6 +283,13 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 - [Complément sur la sécurité (OWASP)](https://www.owasp.org/index.php/Main_Page)
 - [Complément sur la sécurité, orienté PHP (Initiative Paragon)](https://paragonie.com/)
 - [Liste de contrôle de sécurité (Sqreen)](https://www.sqreen.io/checklists/php-security-checklist)
+
+### PowerShell
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+- [Tutoriel/Cours (IT Connect)](https://www.it-connect.fr/cours-tutoriels/administration-systemes/scripting/powershell/)
+- [Tutoriel/Cours (Microsoft Docs)](https://docs.microsoft.com/fr-fr/powershell/)
 
 ### Python
 
