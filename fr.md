@@ -289,6 +289,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
 - [Tutoriel/Cours (Apprendre à programmer avec Python 3 de Gérard Swinnen)](https://inforef.be/swi/download/apprendre_python3_5.pdf)
+- [Tutoriel/Cours (Zeste de Savoir)](https://zestedesavoir.com/tutoriels/2514/un-zeste-de-python/)
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
