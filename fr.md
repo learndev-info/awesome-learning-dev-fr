@@ -47,7 +47,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 
 #### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
 
-- [Cours, exercices et concours (France IOI)](http://www.france-ioi.org/)
+- [Cours, exercices et concours (France IOI)](http://www.france-ioi.org/) *Les cours sont disponibles en langages C, C++, Pascal, OCaml, Java, JavaScool, Python. Un parcours conçu pour les élèves scolarisés dans les lycées français est également disponible.*
 
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
