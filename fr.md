@@ -19,6 +19,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [Go](#go)
   - [Haskell](#haskell)
   - [HTML/CSS](#htmlcss)
+  - [Janet](#janet)
   - [Java](#java)
   - [Javascript](#javascript)
   - [Kotlin](#kotlin)
@@ -121,6 +122,7 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 - [Practical Common Lisp](http://www.gigamonkeys.com/book/)
+- [[Theory] CLOSOS](http://metamodular.com/closos.pdf)
 
 ### Elixir
 
@@ -187,6 +189,17 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 - [Tutoriel/Cours HTML & CSS (Marksheet)](https://marksheet.io/)
 - [Documentation HTML (MDN)](https://developer.mozilla.org/en-US/docs/Glossary/HTML) ou [Référence Rapide (HTML Reference)](https://htmlreference.io/)
 - [Documentation CSS (MDN)](https://developer.mozilla.org/en-US/docs/Glossary/CSS) ou [Référence Rapide (CSS Reference)](https://cssreference.io/)
+
+### Janet
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour ce langage.
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+- [Course](https://janet.guide)
+- [Documentation and introduction](https://janet-lang.org/docs/index.html)
 
 ### Java
 

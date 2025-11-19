@@ -19,6 +19,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
   - [Go](#go)
   - [Haskell](#haskell)
   - [HTML/CSS](#htmlcss)
+  - [Janet](#janet)
   - [Java](#java)
   - [Javascript](#javascript)
   - [Kotlin](#kotlin)
@@ -77,6 +78,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 ### Common Lisp
 
 - [Practical Common Lisp](http://www.gigamonkeys.com/book/)
+- [[Theory] CLOSOS](http://metamodular.com/closos.pdf)
 
 ### Elixir
 
@@ -110,6 +112,11 @@ On the Internet, there are many tutorials/courses to learn development, except t
 - [HTML & CSS Tutorial/Courses (Marksheet)](https://marksheet.io/)
 - [HTML Documentation (MDN)](https://developer.mozilla.org/en-US/docs/Glossary/HTML) or [Quick Reference (HTML Reference)](https://htmlreference.io/)
 - [CSS Documentation (MDN)](https://developer.mozilla.org/en-US/docs/Glossary/CSS) or [Quick Reference (CSS Reference)](https://cssreference.io/)
+
+### Janet
+
+- [Course](https://janet.guide)
+- [Documentation and introduction](https://janet-lang.org/docs/index.html)
 
 ### Java
 
