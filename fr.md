@@ -414,6 +414,7 @@ Malheureusement, il n'y a pas de bon tutoriel/cours en français pour ce langage
 
 - [Devenir développeur backend](https://roadmap.sh/backend)
 - [Devenir développeur frontend](https://roadmap.sh/frontend)
+- [Devenir développeur frontend (MDN)](https://developer.mozilla.org/fr/docs/Apprendre/Front-end_web_developer)
 - [Devenir devops](https://roadmap.sh/devops)
 
 ## Les sites à éviter
