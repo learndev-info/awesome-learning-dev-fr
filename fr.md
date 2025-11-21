@@ -123,6 +123,7 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 
 - [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 - [[Theory] CLOSOS](http://metamodular.com/closos.pdf)
+- [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/): un bon wiki / guide pour les sujets communs donnant aussi des liens vers d'autres ressources
 
 ### Elixir
 
