@@ -79,6 +79,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
 
 - [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 - [[Theory] CLOSOS](http://metamodular.com/closos.pdf)
+- [Lisp in 2025](https://github.com/cloudstreet-dev/Lisp-in-2025/blob/main/01-introduction.md)
 - [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/): a good cheatsheet/wiki with links to broader learning resources
 
 ### Elixir
