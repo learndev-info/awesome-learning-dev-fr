@@ -15,6 +15,7 @@ On the Internet, there are many tutorials/courses to learn development, except t
   - [Clojure](#clojure)
   - [Common Lisp](#common-lisp)
   - [Elixir](#elixir)
+  - [Emacs Lisp](#emacs-lisp)
   - [Git](#git)
   - [Go](#go)
   - [Haskell](#haskell)
@@ -85,6 +86,11 @@ On the Internet, there are many tutorials/courses to learn development, except t
 ### Elixir
 
 - [Getting started](https://elixir-lang.org/getting-started/introduction.html)
+
+### Emacs Lisp
+
+- [An introduction to programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html)
+- [Emacs Lisp reference manual](https://www.gnu.org/software/emacs/manual/elisp.html)
 
 ### Git
 
