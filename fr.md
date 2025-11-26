@@ -15,6 +15,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
   - [Clojure](#clojure)
   - [Common Lisp](#common-lisp)
   - [Elixir](#elixir)
+  - [Emacs Lisp](#emacs-lisp)
   - [Git](#git)
   - [Go](#go)
   - [Haskell](#haskell)
@@ -123,6 +124,8 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 
 - [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 - [[Theory] CLOSOS](http://metamodular.com/closos.pdf)
+- [Lisp in 2025](https://github.com/cloudstreet-dev/Lisp-in-2025/blob/main/01-introduction.md)
+- [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/): un bon wiki / guide pour les sujets communs donnant aussi des liens vers d'autres ressources
 
 ### Elixir
 
@@ -133,6 +136,17 @@ Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour c
 #### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
 
 - [Getting started](https://elixir-lang.org/getting-started/introduction.html)
+
+### Emacs Lisp
+
+#### ![FR](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/franceflag.png)
+
+Malheureusement, il n'y a pas (encore) de bon tutoriel/cours en français pour ce langage.
+
+#### ![EN](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/greatbritainflag.png)
+
+- [An introduction to programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html)
+- [Emacs Lisp reference manual](https://www.gnu.org/software/emacs/manual/elisp.html)
 
 ### Git
 
